@@ -2523,3 +2523,51 @@
 02/05/2023 02:55:13 PM Executing query
 02/05/2023 02:55:13 PM 'alert_bot' object has no attribute 'db'
 02/05/2023 02:55:13 PM Could not execute query
+02/05/2023 04:43:27 PM Starting
+02/05/2023 04:43:27 PM Initializing
+02/05/2023 04:43:27 PM Connecting to database
+02/05/2023 04:43:27 PM Creating Twilio client
+02/05/2023 04:43:27 PM Getting all uniq_id
+02/05/2023 04:43:27 PM Querying database
+02/05/2023 04:43:27 PM Executing query
+02/05/2023 04:43:27 PM Checking rows
+02/05/2023 04:43:27 PM New row found
+02/05/2023 04:43:48 PM Starting
+02/05/2023 04:43:48 PM Initializing
+02/05/2023 04:43:48 PM Connecting to database
+02/05/2023 04:43:48 PM Creating Twilio client
+02/05/2023 04:43:48 PM Getting all uniq_id
+02/05/2023 04:43:48 PM Querying database
+02/05/2023 04:43:48 PM Executing query
+02/05/2023 04:43:48 PM Checking rows
+02/05/2023 04:43:48 PM New row found
+02/05/2023 04:43:53 PM Querying database
+02/05/2023 04:43:53 PM Executing query
+02/05/2023 04:43:53 PM Checking rows
+02/05/2023 04:43:53 PM Rows already in cache
+02/05/2023 04:43:53 PM Not calling user
+02/05/2023 04:43:58 PM Querying database
+02/05/2023 04:43:58 PM Executing query
+02/05/2023 04:43:59 PM Checking rows
+02/05/2023 04:43:59 PM Rows already in cache
+02/05/2023 04:43:59 PM Not calling user
+02/05/2023 04:44:04 PM Querying database
+02/05/2023 04:44:04 PM Executing query
+02/05/2023 04:44:04 PM Checking rows
+02/05/2023 04:44:04 PM Rows already in cache
+02/05/2023 04:44:04 PM Not calling user
+02/05/2023 04:44:09 PM Querying database
+02/05/2023 04:44:09 PM Executing query
+02/05/2023 04:44:09 PM Checking rows
+02/05/2023 04:44:09 PM Rows already in cache
+02/05/2023 04:44:09 PM Not calling user
+02/05/2023 04:44:14 PM Querying database
+02/05/2023 04:44:14 PM Executing query
+02/05/2023 04:44:14 PM Checking rows
+02/05/2023 04:44:14 PM Rows already in cache
+02/05/2023 04:44:14 PM Not calling user
+02/05/2023 04:44:19 PM Querying database
+02/05/2023 04:44:19 PM Executing query
+02/05/2023 04:44:19 PM Checking rows
+02/05/2023 04:44:19 PM Rows already in cache
+02/05/2023 04:44:19 PM Not calling user
