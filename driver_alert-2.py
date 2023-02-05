@@ -4,6 +4,7 @@ from twilio.rest import Client
 from time import sleep
 import smtplib
 from pythonping import ping
+import pickle
 
 
 log.basicConfig(filename='log.log', level=log.DEBUG, format='%(asctime)s %(message)s', datefmt='%m/%d/%Y %I:%M:%S %p')
@@ -139,14 +140,27 @@ class alert_bot():
         query = (
             "SELECT uniq_id FROM jo348_chro_cf_dtb_order"
         )
+        # check if cache exists and load it
         try:
-            self.cursor = self.db.cursor()
-            self.cursor.execute(query)
-            cache = self.cursor.fetchall()
-            return cache
+            with open('cache.pickle', 'rb') as handle:
+                self.cache = pickle.load(handle)
+                log.info("Cache loaded")
+                print("Cache loaded")
+                return self.cache
         except Exception as e:
-            print(e)
-            log.error("Could not get all uniq_id")
+            log.error(e)
+            log.error("Could not load cache")
+            try:
+                log.info("Executing init query")
+                self.cursor = self.db.cursor()
+                self.cursor.execute(query)
+                cache = self.cursor.fetchall()
+                return cache
+            except Exception as e:
+                print(e)
+                log.error("Could not get all uniq_id")
+
+        
 
     def __del__(self):
         self.cursor.close()
@@ -156,7 +170,17 @@ class alert_bot():
 
 
 if __name__ == "__main__":
-    bot = alert_bot()
     while True:
+        bot = alert_bot()
         bot.check_db()
+        # Save cache
+        try:
+            with open('cache.pickle', 'wb') as handle:
+                pickle.dump(bot.cache, handle, protocol=pickle.HIGHEST_PROTOCOL)
+                log.info("Cache saved")
+                print("Cache saved")
+        except Exception as e:
+            log.error(e)
+            log.error("Could not save cache")
+        del bot
         sleep(375)

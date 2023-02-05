@@ -3898,3 +3898,76 @@
 02/05/2023 09:17:21 PM Not calling user
 02/05/2023 09:17:21 PM Sending email
 02/05/2023 09:17:22 PM Email sent
+02/05/2023 10:26:56 PM Starting
+02/05/2023 10:26:56 PM Initializing
+02/05/2023 10:26:56 PM Connecting to database
+02/05/2023 10:26:56 PM Creating Twilio client
+02/05/2023 10:26:56 PM Getting all uniq_id
+02/05/2023 10:26:56 PM Executing query
+02/05/2023 10:26:57 PM Checking rows
+02/05/2023 10:26:57 PM New row found
+02/05/2023 10:26:57 PM Cache does not exist
+02/05/2023 10:26:57 PM Not calling user
+02/05/2023 10:26:57 PM Sending email
+02/05/2023 10:26:58 PM Email sent
+02/05/2023 10:33:13 PM Executing query
+02/05/2023 10:33:13 PM MySQL Connection not available.
+02/05/2023 10:33:13 PM Could not execute query
+02/05/2023 10:42:17 PM Starting
+02/05/2023 10:42:17 PM Initializing
+02/05/2023 10:42:17 PM Connecting to database
+02/05/2023 10:42:17 PM Creating Twilio client
+02/05/2023 10:42:17 PM Getting all uniq_id
+02/05/2023 10:42:17 PM [Errno 2] No such file or directory: 'cache.pickle'
+02/05/2023 10:42:17 PM Could not load cache
+02/05/2023 10:42:17 PM Executing init query
+02/05/2023 10:42:17 PM Executing query
+02/05/2023 10:42:17 PM Checking rows
+02/05/2023 10:42:17 PM New row found
+02/05/2023 10:42:17 PM Cache does not exist
+02/05/2023 10:42:17 PM Not calling user
+02/05/2023 10:42:17 PM Sending email
+02/05/2023 10:42:19 PM Email sent
+02/05/2023 10:42:19 PM Closing database connection
+02/05/2023 10:42:19 PM name 'bot' is not defined
+02/05/2023 10:42:19 PM Could not save cache
+02/05/2023 10:42:45 PM Starting
+02/05/2023 10:42:45 PM Initializing
+02/05/2023 10:42:45 PM Connecting to database
+02/05/2023 10:42:45 PM Creating Twilio client
+02/05/2023 10:42:45 PM Getting all uniq_id
+02/05/2023 10:42:45 PM Ran out of input
+02/05/2023 10:42:45 PM Could not load cache
+02/05/2023 10:42:45 PM Executing init query
+02/05/2023 10:42:45 PM Executing query
+02/05/2023 10:42:45 PM Checking rows
+02/05/2023 10:42:45 PM New row found
+02/05/2023 10:42:45 PM Cache does not exist
+02/05/2023 10:42:45 PM Not calling user
+02/05/2023 10:42:45 PM Sending email
+02/05/2023 10:42:47 PM Email sent
+02/05/2023 10:42:47 PM Cache saved
+02/05/2023 10:42:47 PM Closing database connection
+02/05/2023 10:47:25 PM Starting
+02/05/2023 10:47:25 PM Initializing
+02/05/2023 10:47:25 PM Connecting to database
+02/05/2023 10:47:25 PM Creating Twilio client
+02/05/2023 10:47:25 PM Getting all uniq_id
+02/05/2023 10:47:25 PM Cache loaded
+02/05/2023 10:47:25 PM Executing query
+02/05/2023 10:47:25 PM Checking rows
+02/05/2023 10:47:25 PM Rows already in cache
+02/05/2023 10:47:25 PM Not calling user
+02/05/2023 10:47:25 PM Cache saved
+02/05/2023 10:47:25 PM Closing database connection
+02/05/2023 10:53:40 PM Initializing
+02/05/2023 10:53:40 PM Connecting to database
+02/05/2023 10:53:40 PM Creating Twilio client
+02/05/2023 10:53:40 PM Getting all uniq_id
+02/05/2023 10:53:40 PM Cache loaded
+02/05/2023 10:53:40 PM Executing query
+02/05/2023 10:53:40 PM Checking rows
+02/05/2023 10:53:40 PM Rows already in cache
+02/05/2023 10:53:40 PM Not calling user
+02/05/2023 10:53:40 PM Cache saved
+02/05/2023 10:53:40 PM Closing database connection
