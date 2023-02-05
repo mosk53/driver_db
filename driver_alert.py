@@ -17,8 +17,8 @@ class alert_bot():
             self.db = mysql.connector.connect(
                 host="db-web9.alfahosting-server.de",
                 user="up6hge6e_driver",
-                password="xxx",
-                database="xxx")
+                password="xxxx",
+                database="xxxx")
         except Exception as e:
             print(e)
             log.error("Could not connect to database")
@@ -26,8 +26,8 @@ class alert_bot():
         try:
             print("Creating Twilio client")
             log.info("Creating Twilio client")
-            account_sid = "AC5d5567ee7f64c99283cd6dc5fb9c7fe0"
-            auth_token = "d72ffeec8bd614ec17942e826ea57876"
+            account_sid = "xxxxx"
+            auth_token = "xxxxx"
             self.client = Client(account_sid, auth_token)
         except Exception as e:
             log.error(e)
