@@ -18,8 +18,7 @@ class alert_bot():
                 host="db-web9.alfahosting-server.de",
                 user="up6hge6e_driver",
                 password="HJScs@!16031955",
-		database="up6hge6e_jom"
-		)
+		        database="up6hge6e_jom")
         except Exception as e:
             print(e)
             log.error("Could not connect to database")
@@ -27,7 +26,7 @@ class alert_bot():
             print("Creating Twilio client")
             log.info("Creating Twilio client")
             account_sid = "AC5d5567ee7f64c99283cd6dc5fb9c7fe0"
-	    auth_token = "d72ffeec8bd614ec17942e826ea57876"
+            auth_token = "d72ffeec8bd614ec17942e826ea57876"
             self.client = Client(account_sid, auth_token)
         except Exception as e:
             log.error(e)
@@ -91,7 +90,7 @@ class alert_bot():
             try:
                 print("Calling user")
                 log.info("Calling user")
-                call = client.calls.create(
+                call = self.client.calls.create(
   			url="http://demo.twilio.com/docs/voice.xml",
   			to="+4917663385873",
   			from_="+19135132511"
