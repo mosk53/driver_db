@@ -17,17 +17,17 @@ class alert_bot():
             self.db = mysql.connector.connect(
                 host="db-web9.alfahosting-server.de",
                 user="up6hge6e_driver",
-                password="xxxx",
-                database="xxxx")
+                password="HJScs@!16031955",
+		database="up6hge6e_jom"
+		)
         except Exception as e:
             print(e)
             log.error("Could not connect to database")
-            
         try:
             print("Creating Twilio client")
             log.info("Creating Twilio client")
-            account_sid = "xxxxx"
-            auth_token = "xxxxx"
+            account_sid = "AC5d5567ee7f64c99283cd6dc5fb9c7fe0"
+	    auth_token = "d72ffeec8bd614ec17942e826ea57876"
             self.client = Client(account_sid, auth_token)
         except Exception as e:
             log.error(e)
@@ -91,15 +91,14 @@ class alert_bot():
             try:
                 print("Calling user")
                 log.info("Calling user")
-                call = self.client.calls.create(
-                    url="http://demo.twilio.com/docs/voice.xml",
-                    to="+xxxx",
-                    from_="+xx"
-                    )
+                call = client.calls.create(
+  			url="http://demo.twilio.com/docs/voice.xml",
+  			to="+4917663385873",
+  			from_="+19135132511"
+			)
             except Exception as e:
                 log.error(e)
                 log.error("Could not call user")
-            
 
     def get_all_uniq_id(self):
         log.info("Getting all uniq_id")
@@ -121,7 +120,7 @@ class alert_bot():
         self.db.close()
         print("Closing database connection")
         log.info("Closing database connection")
-    
+
 
 if __name__ == "__main__":
     bot = alert_bot()

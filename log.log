@@ -2501,3 +2501,25 @@
 02/05/2023 02:47:44 PM Checking rows
 02/05/2023 02:47:44 PM Rows already in cache
 02/05/2023 02:47:44 PM Not calling user
+02/05/2023 02:29:14 PM Starting
+02/05/2023 02:29:14 PM Initializing
+02/05/2023 02:29:14 PM Connecting to database
+02/05/2023 02:29:14 PM Could not connect to database
+02/05/2023 02:29:14 PM Creating Twilio client
+02/05/2023 02:29:14 PM Getting all uniq_id
+02/05/2023 02:29:14 PM Could not get all uniq_id
+02/05/2023 02:29:14 PM Querying database
+02/05/2023 02:29:14 PM Executing query
+02/05/2023 02:29:14 PM 'alert_bot' object has no attribute 'db'
+02/05/2023 02:29:14 PM Could not execute query
+02/05/2023 02:55:13 PM Starting
+02/05/2023 02:55:13 PM Initializing
+02/05/2023 02:55:13 PM Connecting to database
+02/05/2023 02:55:13 PM Could not connect to database
+02/05/2023 02:55:13 PM Creating Twilio client
+02/05/2023 02:55:13 PM Getting all uniq_id
+02/05/2023 02:55:13 PM Could not get all uniq_id
+02/05/2023 02:55:13 PM Querying database
+02/05/2023 02:55:13 PM Executing query
+02/05/2023 02:55:13 PM 'alert_bot' object has no attribute 'db'
+02/05/2023 02:55:13 PM Could not execute query
