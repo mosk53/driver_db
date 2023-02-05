@@ -3,6 +3,7 @@ import logging as log
 from twilio.rest import Client
 from time import sleep
 import smtplib
+from pythonping import ping
 
 
 log.basicConfig(filename='log.log', level=log.DEBUG, format='%(asctime)s %(message)s', datefmt='%m/%d/%Y %I:%M:%S %p')
@@ -22,7 +23,7 @@ db_name = "up6hge6e_jom"
 
 # Email credentials
 e_sender_email = "monitor_driverdb@outlook.de"
-e_receiver_email = "msok.it@icloud.com"
+e_receiver_email = "mosk.it@icloud.com"
 e_password = "This!as2well"
 e_message_done = """\
 Subject: Bot is done
@@ -35,7 +36,6 @@ class alert_bot():
     def __init__(self):
         log.info("Initializing")
         try:
-            print("Connecting to database")
             log.info("Connecting to database") 
             self.db = mysql.connector.connect(
                 host=db_host,
@@ -43,10 +43,14 @@ class alert_bot():
                 password=db_password,
                 database=db_name)
         except Exception as e:
-            print(e)
+            log.error(e)
             log.error("Could not connect to database")
+            try:
+                log.info(ping('db-web9.alfahosting-server.de', verbose=True))
+            except Exception as e:
+                log.error(e)
+                log.error("Datenbank offline")
         try:
-            print("Creating Twilio client")
             log.info("Creating Twilio client")
             self.client = Client(tw_account_sid, tw_auth_token)
         except Exception as e:
@@ -56,10 +60,7 @@ class alert_bot():
         self.first_run = True
         
     def check_db(self):
-        print("Starting")
         # Query the database
-        log.info("Querying database")
-        print("Querying database")
         query = ("SELECT uniq_id FROM jo348_chro_cf_dtb_order WHERE driverrealstart > driverplanstart + INTERVAL 5 MINUTE;")
         # Execute the query and fetch the rows
         try:
@@ -74,7 +75,6 @@ class alert_bot():
 
     def check_row(self, rows):
         log.info("Checking rows")
-        print("Checking rows")
         found = False
         try:
             for row in rows:
@@ -86,15 +86,12 @@ class alert_bot():
                     continue
 
             if found:
-                print("New row found")
                 log.info("New row found")
                 self.call_me()
                 self.send_email(e_message_done)
             else:
                 log.info("Rows already in cache")
-                print("Rows already in cache")
                 log.info("Not calling user")
-                print("Not calling user")
 
         except Exception as e:
             log.error(e)
