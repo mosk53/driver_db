@@ -68,8 +68,7 @@ class alert_bot():
             if found:
                 print("New row found")
                 log.info("New row found")
-                print("Calling user function now")
-                #self.call_me()
+                self.call_me()
             else:
                 log.info("Rows already in cache")
                 print("Rows already in cache")
@@ -128,4 +127,4 @@ if __name__ == "__main__":
     bot = alert_bot()
     while True:
         bot.check_db()
-        sleep(10)
+        sleep(600)
