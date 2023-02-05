@@ -18,8 +18,8 @@ class alert_bot():
             self.db = mysql.connector.connect(
                 host="db-web9.alfahosting-server.de",
                 user="up6hge6e_driver",
-                password="HJScs@!16031955",
-                database="up6hge6e_jom")
+                password="xxx",
+                database="xxx")
         except Exception as e:
             print(e)
             log.error("Could not connect to database")
