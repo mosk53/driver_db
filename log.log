@@ -3735,3 +3735,16 @@
 02/05/2023 05:20:18 PM Sending email
 02/05/2023 05:20:18 PM object of type 'alert_bot' has no len()
 02/05/2023 05:20:18 PM Could not send email
+02/05/2023 06:34:54 PM Starting
+02/05/2023 06:34:54 PM Initializing
+02/05/2023 06:34:54 PM Connecting to database
+02/05/2023 06:34:54 PM Creating Twilio client
+02/05/2023 06:34:54 PM Getting all uniq_id
+02/05/2023 06:34:54 PM Querying database
+02/05/2023 06:34:54 PM Executing query
+02/05/2023 06:34:54 PM Checking rows
+02/05/2023 06:34:54 PM New row found
+02/05/2023 06:34:54 PM Cache does not exist
+02/05/2023 06:34:54 PM Not calling user
+02/05/2023 06:34:54 PM Sending email
+02/05/2023 06:34:55 PM Email sent

@@ -6,7 +6,6 @@ import smtplib
 
 
 log.basicConfig(filename='log.log', level=log.DEBUG, format='%(asctime)s %(message)s', datefmt='%m/%d/%Y %I:%M:%S %p')
-first_run = True
 
 # Twilio credentials
 tw_account_sid = "AC5d5567ee7f64c99283cd6dc5fb9c7fe0"
@@ -32,6 +31,8 @@ Bot completed its task and found new rows in the database."""
 
 class alert_bot():
     log.info("Starting")
+    first_run = True
+
     def __init__(self):
         log.info("Initializing")
         try:
@@ -41,7 +42,7 @@ class alert_bot():
                 host=db_host,
                 user=db_user,
                 password=db_password,
-		        database=db_name)
+                database=db_name)
         except Exception as e:
             print(e)
             log.error("Could not connect to database")
@@ -120,7 +121,7 @@ class alert_bot():
                 log.error(e)
                 log.error("Could not call user")
 
-    def send_email(msg, self):
+    def send_email(self, msg):
         try:
             print("Sending email")
             log.info("Sending email")
