@@ -93,8 +93,8 @@ class alert_bot():
                 log.info("Calling user")
                 call = self.client.calls.create(
                     url="http://demo.twilio.com/docs/voice.xml",
-                    to="+4917663385873",
-                    from_="+19135132511"
+                    to="+xxxx",
+                    from_="+xx"
                     )
             except Exception as e:
                 log.error(e)
