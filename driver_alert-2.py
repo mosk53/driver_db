@@ -161,4 +161,4 @@ if __name__ == "__main__":
     bot = alert_bot()
     while True:
         bot.check_db()
-        sleep(5)
+        sleep(375)

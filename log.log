@@ -2712,3 +2712,1026 @@
 02/05/2023 06:01:29 PM Checking rows
 02/05/2023 06:01:29 PM Rows already in cache
 02/05/2023 06:01:29 PM Not calling user
+02/05/2023 05:02:59 PM Starting
+02/05/2023 05:02:59 PM Initializing
+02/05/2023 05:02:59 PM Connecting to database
+02/05/2023 05:03:00 PM Creating Twilio client
+02/05/2023 05:03:00 PM Getting all uniq_id
+02/05/2023 05:03:00 PM Querying database
+02/05/2023 05:03:00 PM Executing query
+02/05/2023 05:03:00 PM Checking rows
+02/05/2023 05:03:00 PM New row found
+02/05/2023 05:03:00 PM Cache does not exist
+02/05/2023 05:03:00 PM Not calling user
+02/05/2023 05:03:00 PM Sending email
+02/05/2023 05:03:01 PM object of type 'alert_bot' has no len()
+02/05/2023 05:03:01 PM Could not send email
+02/05/2023 05:03:06 PM Querying database
+02/05/2023 05:03:06 PM Executing query
+02/05/2023 05:03:06 PM Checking rows
+02/05/2023 05:03:06 PM Rows already in cache
+02/05/2023 05:03:06 PM Not calling user
+02/05/2023 05:03:11 PM Querying database
+02/05/2023 05:03:11 PM Executing query
+02/05/2023 05:03:11 PM Checking rows
+02/05/2023 05:03:11 PM Rows already in cache
+02/05/2023 05:03:11 PM Not calling user
+02/05/2023 05:03:16 PM Querying database
+02/05/2023 05:03:16 PM Executing query
+02/05/2023 05:03:16 PM Checking rows
+02/05/2023 05:03:16 PM Rows already in cache
+02/05/2023 05:03:16 PM Not calling user
+02/05/2023 05:03:21 PM Querying database
+02/05/2023 05:03:21 PM Executing query
+02/05/2023 05:03:21 PM Checking rows
+02/05/2023 05:03:21 PM Rows already in cache
+02/05/2023 05:03:21 PM Not calling user
+02/05/2023 05:03:26 PM Querying database
+02/05/2023 05:03:26 PM Executing query
+02/05/2023 05:03:26 PM Checking rows
+02/05/2023 05:03:26 PM Rows already in cache
+02/05/2023 05:03:26 PM Not calling user
+02/05/2023 05:03:31 PM Querying database
+02/05/2023 05:03:31 PM Executing query
+02/05/2023 05:03:31 PM Checking rows
+02/05/2023 05:03:31 PM Rows already in cache
+02/05/2023 05:03:31 PM Not calling user
+02/05/2023 05:03:36 PM Querying database
+02/05/2023 05:03:36 PM Executing query
+02/05/2023 05:03:36 PM Checking rows
+02/05/2023 05:03:36 PM Rows already in cache
+02/05/2023 05:03:36 PM Not calling user
+02/05/2023 05:03:41 PM Querying database
+02/05/2023 05:03:41 PM Executing query
+02/05/2023 05:03:41 PM Checking rows
+02/05/2023 05:03:41 PM Rows already in cache
+02/05/2023 05:03:41 PM Not calling user
+02/05/2023 05:03:46 PM Querying database
+02/05/2023 05:03:46 PM Executing query
+02/05/2023 05:03:46 PM Checking rows
+02/05/2023 05:03:46 PM Rows already in cache
+02/05/2023 05:03:46 PM Not calling user
+02/05/2023 05:03:51 PM Querying database
+02/05/2023 05:03:51 PM Executing query
+02/05/2023 05:03:51 PM Checking rows
+02/05/2023 05:03:51 PM Rows already in cache
+02/05/2023 05:03:51 PM Not calling user
+02/05/2023 05:03:56 PM Querying database
+02/05/2023 05:03:56 PM Executing query
+02/05/2023 05:03:56 PM Checking rows
+02/05/2023 05:03:56 PM Rows already in cache
+02/05/2023 05:03:56 PM Not calling user
+02/05/2023 05:04:01 PM Querying database
+02/05/2023 05:04:01 PM Executing query
+02/05/2023 05:04:01 PM Checking rows
+02/05/2023 05:04:01 PM Rows already in cache
+02/05/2023 05:04:01 PM Not calling user
+02/05/2023 05:04:06 PM Querying database
+02/05/2023 05:04:06 PM Executing query
+02/05/2023 05:04:06 PM Checking rows
+02/05/2023 05:04:06 PM Rows already in cache
+02/05/2023 05:04:06 PM Not calling user
+02/05/2023 05:04:11 PM Querying database
+02/05/2023 05:04:11 PM Executing query
+02/05/2023 05:04:11 PM Checking rows
+02/05/2023 05:04:11 PM Rows already in cache
+02/05/2023 05:04:11 PM Not calling user
+02/05/2023 05:04:16 PM Querying database
+02/05/2023 05:04:16 PM Executing query
+02/05/2023 05:04:16 PM Checking rows
+02/05/2023 05:04:16 PM Rows already in cache
+02/05/2023 05:04:16 PM Not calling user
+02/05/2023 05:04:21 PM Querying database
+02/05/2023 05:04:21 PM Executing query
+02/05/2023 05:04:21 PM Checking rows
+02/05/2023 05:04:21 PM Rows already in cache
+02/05/2023 05:04:21 PM Not calling user
+02/05/2023 05:04:27 PM Querying database
+02/05/2023 05:04:27 PM Executing query
+02/05/2023 05:04:27 PM Checking rows
+02/05/2023 05:04:27 PM Rows already in cache
+02/05/2023 05:04:27 PM Not calling user
+02/05/2023 05:04:32 PM Querying database
+02/05/2023 05:04:32 PM Executing query
+02/05/2023 05:04:32 PM Checking rows
+02/05/2023 05:04:32 PM Rows already in cache
+02/05/2023 05:04:32 PM Not calling user
+02/05/2023 05:04:37 PM Querying database
+02/05/2023 05:04:37 PM Executing query
+02/05/2023 05:04:37 PM Checking rows
+02/05/2023 05:04:37 PM Rows already in cache
+02/05/2023 05:04:37 PM Not calling user
+02/05/2023 05:04:42 PM Querying database
+02/05/2023 05:04:42 PM Executing query
+02/05/2023 05:04:42 PM Checking rows
+02/05/2023 05:04:42 PM Rows already in cache
+02/05/2023 05:04:42 PM Not calling user
+02/05/2023 05:04:47 PM Querying database
+02/05/2023 05:04:47 PM Executing query
+02/05/2023 05:04:47 PM Checking rows
+02/05/2023 05:04:47 PM Rows already in cache
+02/05/2023 05:04:47 PM Not calling user
+02/05/2023 05:04:52 PM Querying database
+02/05/2023 05:04:52 PM Executing query
+02/05/2023 05:04:52 PM Checking rows
+02/05/2023 05:04:52 PM Rows already in cache
+02/05/2023 05:04:52 PM Not calling user
+02/05/2023 05:04:57 PM Querying database
+02/05/2023 05:04:57 PM Executing query
+02/05/2023 05:04:57 PM Checking rows
+02/05/2023 05:04:57 PM Rows already in cache
+02/05/2023 05:04:57 PM Not calling user
+02/05/2023 05:05:02 PM Querying database
+02/05/2023 05:05:02 PM Executing query
+02/05/2023 05:05:02 PM Checking rows
+02/05/2023 05:05:02 PM Rows already in cache
+02/05/2023 05:05:02 PM Not calling user
+02/05/2023 05:05:07 PM Querying database
+02/05/2023 05:05:07 PM Executing query
+02/05/2023 05:05:07 PM Checking rows
+02/05/2023 05:05:07 PM Rows already in cache
+02/05/2023 05:05:07 PM Not calling user
+02/05/2023 05:05:12 PM Querying database
+02/05/2023 05:05:12 PM Executing query
+02/05/2023 05:05:12 PM Checking rows
+02/05/2023 05:05:12 PM Rows already in cache
+02/05/2023 05:05:12 PM Not calling user
+02/05/2023 05:05:17 PM Querying database
+02/05/2023 05:05:17 PM Executing query
+02/05/2023 05:05:17 PM Checking rows
+02/05/2023 05:05:17 PM Rows already in cache
+02/05/2023 05:05:17 PM Not calling user
+02/05/2023 05:05:22 PM Querying database
+02/05/2023 05:05:22 PM Executing query
+02/05/2023 05:05:22 PM Checking rows
+02/05/2023 05:05:22 PM Rows already in cache
+02/05/2023 05:05:22 PM Not calling user
+02/05/2023 05:05:27 PM Querying database
+02/05/2023 05:05:27 PM Executing query
+02/05/2023 05:05:27 PM Checking rows
+02/05/2023 05:05:27 PM Rows already in cache
+02/05/2023 05:05:27 PM Not calling user
+02/05/2023 05:05:32 PM Querying database
+02/05/2023 05:05:32 PM Executing query
+02/05/2023 05:05:32 PM Checking rows
+02/05/2023 05:05:32 PM Rows already in cache
+02/05/2023 05:05:32 PM Not calling user
+02/05/2023 05:05:37 PM Querying database
+02/05/2023 05:05:37 PM Executing query
+02/05/2023 05:05:37 PM Checking rows
+02/05/2023 05:05:37 PM Rows already in cache
+02/05/2023 05:05:37 PM Not calling user
+02/05/2023 05:05:42 PM Querying database
+02/05/2023 05:05:42 PM Executing query
+02/05/2023 05:05:42 PM Checking rows
+02/05/2023 05:05:42 PM Rows already in cache
+02/05/2023 05:05:42 PM Not calling user
+02/05/2023 05:05:47 PM Querying database
+02/05/2023 05:05:47 PM Executing query
+02/05/2023 05:05:47 PM Checking rows
+02/05/2023 05:05:47 PM Rows already in cache
+02/05/2023 05:05:47 PM Not calling user
+02/05/2023 05:05:52 PM Querying database
+02/05/2023 05:05:52 PM Executing query
+02/05/2023 05:05:52 PM Checking rows
+02/05/2023 05:05:52 PM Rows already in cache
+02/05/2023 05:05:52 PM Not calling user
+02/05/2023 05:05:57 PM Querying database
+02/05/2023 05:05:57 PM Executing query
+02/05/2023 05:05:57 PM Checking rows
+02/05/2023 05:05:57 PM Rows already in cache
+02/05/2023 05:05:57 PM Not calling user
+02/05/2023 05:06:02 PM Querying database
+02/05/2023 05:06:02 PM Executing query
+02/05/2023 05:06:02 PM Checking rows
+02/05/2023 05:06:02 PM Rows already in cache
+02/05/2023 05:06:02 PM Not calling user
+02/05/2023 05:06:07 PM Querying database
+02/05/2023 05:06:07 PM Executing query
+02/05/2023 05:06:07 PM Checking rows
+02/05/2023 05:06:07 PM Rows already in cache
+02/05/2023 05:06:07 PM Not calling user
+02/05/2023 05:06:12 PM Querying database
+02/05/2023 05:06:12 PM Executing query
+02/05/2023 05:06:12 PM Checking rows
+02/05/2023 05:06:12 PM Rows already in cache
+02/05/2023 05:06:12 PM Not calling user
+02/05/2023 05:06:17 PM Querying database
+02/05/2023 05:06:17 PM Executing query
+02/05/2023 05:06:17 PM Checking rows
+02/05/2023 05:06:17 PM Rows already in cache
+02/05/2023 05:06:17 PM Not calling user
+02/05/2023 05:06:22 PM Querying database
+02/05/2023 05:06:22 PM Executing query
+02/05/2023 05:06:22 PM Checking rows
+02/05/2023 05:06:22 PM Rows already in cache
+02/05/2023 05:06:22 PM Not calling user
+02/05/2023 05:06:27 PM Querying database
+02/05/2023 05:06:27 PM Executing query
+02/05/2023 05:06:27 PM Checking rows
+02/05/2023 05:06:27 PM Rows already in cache
+02/05/2023 05:06:27 PM Not calling user
+02/05/2023 05:06:32 PM Querying database
+02/05/2023 05:06:32 PM Executing query
+02/05/2023 05:06:32 PM Checking rows
+02/05/2023 05:06:32 PM Rows already in cache
+02/05/2023 05:06:32 PM Not calling user
+02/05/2023 05:06:38 PM Querying database
+02/05/2023 05:06:38 PM Executing query
+02/05/2023 05:06:38 PM Checking rows
+02/05/2023 05:06:38 PM Rows already in cache
+02/05/2023 05:06:38 PM Not calling user
+02/05/2023 05:06:43 PM Querying database
+02/05/2023 05:06:43 PM Executing query
+02/05/2023 05:06:43 PM Checking rows
+02/05/2023 05:06:43 PM Rows already in cache
+02/05/2023 05:06:43 PM Not calling user
+02/05/2023 05:06:48 PM Querying database
+02/05/2023 05:06:48 PM Executing query
+02/05/2023 05:06:48 PM Checking rows
+02/05/2023 05:06:48 PM Rows already in cache
+02/05/2023 05:06:48 PM Not calling user
+02/05/2023 05:06:53 PM Querying database
+02/05/2023 05:06:53 PM Executing query
+02/05/2023 05:06:53 PM Checking rows
+02/05/2023 05:06:53 PM Rows already in cache
+02/05/2023 05:06:53 PM Not calling user
+02/05/2023 05:06:58 PM Querying database
+02/05/2023 05:06:58 PM Executing query
+02/05/2023 05:06:58 PM Checking rows
+02/05/2023 05:06:58 PM Rows already in cache
+02/05/2023 05:06:58 PM Not calling user
+02/05/2023 05:07:03 PM Querying database
+02/05/2023 05:07:03 PM Executing query
+02/05/2023 05:07:03 PM Checking rows
+02/05/2023 05:07:03 PM Rows already in cache
+02/05/2023 05:07:03 PM Not calling user
+02/05/2023 05:07:08 PM Querying database
+02/05/2023 05:07:08 PM Executing query
+02/05/2023 05:07:08 PM Checking rows
+02/05/2023 05:07:08 PM Rows already in cache
+02/05/2023 05:07:08 PM Not calling user
+02/05/2023 05:07:13 PM Querying database
+02/05/2023 05:07:13 PM Executing query
+02/05/2023 05:07:13 PM Checking rows
+02/05/2023 05:07:13 PM Rows already in cache
+02/05/2023 05:07:13 PM Not calling user
+02/05/2023 05:07:18 PM Querying database
+02/05/2023 05:07:18 PM Executing query
+02/05/2023 05:07:18 PM Checking rows
+02/05/2023 05:07:18 PM Rows already in cache
+02/05/2023 05:07:18 PM Not calling user
+02/05/2023 05:07:23 PM Querying database
+02/05/2023 05:07:23 PM Executing query
+02/05/2023 05:07:23 PM Checking rows
+02/05/2023 05:07:23 PM Rows already in cache
+02/05/2023 05:07:23 PM Not calling user
+02/05/2023 05:07:28 PM Querying database
+02/05/2023 05:07:28 PM Executing query
+02/05/2023 05:07:28 PM Checking rows
+02/05/2023 05:07:28 PM Rows already in cache
+02/05/2023 05:07:28 PM Not calling user
+02/05/2023 05:07:33 PM Querying database
+02/05/2023 05:07:33 PM Executing query
+02/05/2023 05:07:33 PM Checking rows
+02/05/2023 05:07:33 PM Rows already in cache
+02/05/2023 05:07:33 PM Not calling user
+02/05/2023 05:07:38 PM Querying database
+02/05/2023 05:07:38 PM Executing query
+02/05/2023 05:07:38 PM Checking rows
+02/05/2023 05:07:38 PM Rows already in cache
+02/05/2023 05:07:38 PM Not calling user
+02/05/2023 05:07:43 PM Querying database
+02/05/2023 05:07:43 PM Executing query
+02/05/2023 05:07:43 PM Checking rows
+02/05/2023 05:07:43 PM Rows already in cache
+02/05/2023 05:07:43 PM Not calling user
+02/05/2023 05:07:48 PM Querying database
+02/05/2023 05:07:48 PM Executing query
+02/05/2023 05:07:48 PM Checking rows
+02/05/2023 05:07:48 PM Rows already in cache
+02/05/2023 05:07:48 PM Not calling user
+02/05/2023 05:07:53 PM Querying database
+02/05/2023 05:07:53 PM Executing query
+02/05/2023 05:07:53 PM Checking rows
+02/05/2023 05:07:53 PM Rows already in cache
+02/05/2023 05:07:53 PM Not calling user
+02/05/2023 05:07:58 PM Querying database
+02/05/2023 05:07:58 PM Executing query
+02/05/2023 05:07:58 PM Checking rows
+02/05/2023 05:07:58 PM Rows already in cache
+02/05/2023 05:07:58 PM Not calling user
+02/05/2023 05:08:03 PM Querying database
+02/05/2023 05:08:03 PM Executing query
+02/05/2023 05:08:03 PM Checking rows
+02/05/2023 05:08:03 PM Rows already in cache
+02/05/2023 05:08:03 PM Not calling user
+02/05/2023 05:08:08 PM Querying database
+02/05/2023 05:08:08 PM Executing query
+02/05/2023 05:08:08 PM Checking rows
+02/05/2023 05:08:08 PM Rows already in cache
+02/05/2023 05:08:08 PM Not calling user
+02/05/2023 05:08:13 PM Querying database
+02/05/2023 05:08:13 PM Executing query
+02/05/2023 05:08:13 PM Checking rows
+02/05/2023 05:08:13 PM Rows already in cache
+02/05/2023 05:08:13 PM Not calling user
+02/05/2023 05:08:18 PM Querying database
+02/05/2023 05:08:18 PM Executing query
+02/05/2023 05:08:18 PM Checking rows
+02/05/2023 05:08:18 PM Rows already in cache
+02/05/2023 05:08:18 PM Not calling user
+02/05/2023 05:08:23 PM Querying database
+02/05/2023 05:08:23 PM Executing query
+02/05/2023 05:08:23 PM Checking rows
+02/05/2023 05:08:23 PM Rows already in cache
+02/05/2023 05:08:23 PM Not calling user
+02/05/2023 05:08:28 PM Querying database
+02/05/2023 05:08:28 PM Executing query
+02/05/2023 05:08:28 PM Checking rows
+02/05/2023 05:08:28 PM Rows already in cache
+02/05/2023 05:08:28 PM Not calling user
+02/05/2023 05:08:33 PM Querying database
+02/05/2023 05:08:33 PM Executing query
+02/05/2023 05:08:33 PM Checking rows
+02/05/2023 05:08:33 PM Rows already in cache
+02/05/2023 05:08:33 PM Not calling user
+02/05/2023 05:08:38 PM Querying database
+02/05/2023 05:08:38 PM Executing query
+02/05/2023 05:08:38 PM Checking rows
+02/05/2023 05:08:38 PM Rows already in cache
+02/05/2023 05:08:38 PM Not calling user
+02/05/2023 05:08:43 PM Querying database
+02/05/2023 05:08:43 PM Executing query
+02/05/2023 05:08:43 PM Checking rows
+02/05/2023 05:08:43 PM Rows already in cache
+02/05/2023 05:08:43 PM Not calling user
+02/05/2023 05:08:48 PM Querying database
+02/05/2023 05:08:48 PM Executing query
+02/05/2023 05:08:49 PM Checking rows
+02/05/2023 05:08:49 PM Rows already in cache
+02/05/2023 05:08:49 PM Not calling user
+02/05/2023 05:08:54 PM Querying database
+02/05/2023 05:08:54 PM Executing query
+02/05/2023 05:08:54 PM Checking rows
+02/05/2023 05:08:54 PM Rows already in cache
+02/05/2023 05:08:54 PM Not calling user
+02/05/2023 05:08:59 PM Querying database
+02/05/2023 05:08:59 PM Executing query
+02/05/2023 05:08:59 PM Checking rows
+02/05/2023 05:08:59 PM Rows already in cache
+02/05/2023 05:08:59 PM Not calling user
+02/05/2023 05:09:04 PM Querying database
+02/05/2023 05:09:04 PM Executing query
+02/05/2023 05:09:04 PM Checking rows
+02/05/2023 05:09:04 PM Rows already in cache
+02/05/2023 05:09:04 PM Not calling user
+02/05/2023 05:09:09 PM Querying database
+02/05/2023 05:09:09 PM Executing query
+02/05/2023 05:09:09 PM Checking rows
+02/05/2023 05:09:09 PM Rows already in cache
+02/05/2023 05:09:09 PM Not calling user
+02/05/2023 05:09:14 PM Querying database
+02/05/2023 05:09:14 PM Executing query
+02/05/2023 05:09:14 PM Checking rows
+02/05/2023 05:09:14 PM Rows already in cache
+02/05/2023 05:09:14 PM Not calling user
+02/05/2023 05:09:19 PM Querying database
+02/05/2023 05:09:19 PM Executing query
+02/05/2023 05:09:19 PM Checking rows
+02/05/2023 05:09:19 PM Rows already in cache
+02/05/2023 05:09:19 PM Not calling user
+02/05/2023 05:09:24 PM Querying database
+02/05/2023 05:09:24 PM Executing query
+02/05/2023 05:09:24 PM Checking rows
+02/05/2023 05:09:24 PM Rows already in cache
+02/05/2023 05:09:24 PM Not calling user
+02/05/2023 05:09:29 PM Querying database
+02/05/2023 05:09:29 PM Executing query
+02/05/2023 05:09:29 PM Checking rows
+02/05/2023 05:09:29 PM Rows already in cache
+02/05/2023 05:09:29 PM Not calling user
+02/05/2023 05:09:34 PM Querying database
+02/05/2023 05:09:34 PM Executing query
+02/05/2023 05:09:34 PM Checking rows
+02/05/2023 05:09:34 PM Rows already in cache
+02/05/2023 05:09:34 PM Not calling user
+02/05/2023 05:09:39 PM Querying database
+02/05/2023 05:09:39 PM Executing query
+02/05/2023 05:09:39 PM Checking rows
+02/05/2023 05:09:39 PM Rows already in cache
+02/05/2023 05:09:39 PM Not calling user
+02/05/2023 05:09:44 PM Querying database
+02/05/2023 05:09:44 PM Executing query
+02/05/2023 05:09:44 PM Checking rows
+02/05/2023 05:09:44 PM Rows already in cache
+02/05/2023 05:09:44 PM Not calling user
+02/05/2023 05:09:49 PM Querying database
+02/05/2023 05:09:49 PM Executing query
+02/05/2023 05:09:49 PM Checking rows
+02/05/2023 05:09:49 PM Rows already in cache
+02/05/2023 05:09:49 PM Not calling user
+02/05/2023 05:09:54 PM Querying database
+02/05/2023 05:09:54 PM Executing query
+02/05/2023 05:09:54 PM Checking rows
+02/05/2023 05:09:54 PM Rows already in cache
+02/05/2023 05:09:54 PM Not calling user
+02/05/2023 05:09:59 PM Querying database
+02/05/2023 05:09:59 PM Executing query
+02/05/2023 05:09:59 PM Checking rows
+02/05/2023 05:09:59 PM Rows already in cache
+02/05/2023 05:09:59 PM Not calling user
+02/05/2023 05:10:04 PM Querying database
+02/05/2023 05:10:04 PM Executing query
+02/05/2023 05:10:04 PM Checking rows
+02/05/2023 05:10:04 PM Rows already in cache
+02/05/2023 05:10:04 PM Not calling user
+02/05/2023 05:10:09 PM Querying database
+02/05/2023 05:10:09 PM Executing query
+02/05/2023 05:10:09 PM Checking rows
+02/05/2023 05:10:09 PM Rows already in cache
+02/05/2023 05:10:09 PM Not calling user
+02/05/2023 05:10:14 PM Querying database
+02/05/2023 05:10:14 PM Executing query
+02/05/2023 05:10:14 PM Checking rows
+02/05/2023 05:10:14 PM Rows already in cache
+02/05/2023 05:10:14 PM Not calling user
+02/05/2023 05:10:19 PM Querying database
+02/05/2023 05:10:19 PM Executing query
+02/05/2023 05:10:19 PM Checking rows
+02/05/2023 05:10:19 PM Rows already in cache
+02/05/2023 05:10:19 PM Not calling user
+02/05/2023 05:10:24 PM Querying database
+02/05/2023 05:10:24 PM Executing query
+02/05/2023 05:10:24 PM Checking rows
+02/05/2023 05:10:24 PM Rows already in cache
+02/05/2023 05:10:24 PM Not calling user
+02/05/2023 05:10:29 PM Querying database
+02/05/2023 05:10:29 PM Executing query
+02/05/2023 05:10:29 PM Checking rows
+02/05/2023 05:10:29 PM Rows already in cache
+02/05/2023 05:10:29 PM Not calling user
+02/05/2023 05:10:34 PM Querying database
+02/05/2023 05:10:34 PM Executing query
+02/05/2023 05:10:34 PM Checking rows
+02/05/2023 05:10:34 PM Rows already in cache
+02/05/2023 05:10:34 PM Not calling user
+02/05/2023 05:10:39 PM Querying database
+02/05/2023 05:10:39 PM Executing query
+02/05/2023 05:10:39 PM Checking rows
+02/05/2023 05:10:39 PM Rows already in cache
+02/05/2023 05:10:39 PM Not calling user
+02/05/2023 05:10:44 PM Querying database
+02/05/2023 05:10:44 PM Executing query
+02/05/2023 05:10:44 PM Checking rows
+02/05/2023 05:10:44 PM Rows already in cache
+02/05/2023 05:10:44 PM Not calling user
+02/05/2023 05:10:49 PM Querying database
+02/05/2023 05:10:49 PM Executing query
+02/05/2023 05:10:49 PM Checking rows
+02/05/2023 05:10:49 PM Rows already in cache
+02/05/2023 05:10:49 PM Not calling user
+02/05/2023 05:10:54 PM Querying database
+02/05/2023 05:10:54 PM Executing query
+02/05/2023 05:10:54 PM Checking rows
+02/05/2023 05:10:54 PM Rows already in cache
+02/05/2023 05:10:54 PM Not calling user
+02/05/2023 05:10:59 PM Querying database
+02/05/2023 05:10:59 PM Executing query
+02/05/2023 05:10:59 PM Checking rows
+02/05/2023 05:10:59 PM Rows already in cache
+02/05/2023 05:10:59 PM Not calling user
+02/05/2023 05:11:04 PM Querying database
+02/05/2023 05:11:04 PM Executing query
+02/05/2023 05:11:04 PM Checking rows
+02/05/2023 05:11:04 PM Rows already in cache
+02/05/2023 05:11:04 PM Not calling user
+02/05/2023 05:11:09 PM Querying database
+02/05/2023 05:11:09 PM Executing query
+02/05/2023 05:11:10 PM Checking rows
+02/05/2023 05:11:10 PM Rows already in cache
+02/05/2023 05:11:10 PM Not calling user
+02/05/2023 05:11:15 PM Querying database
+02/05/2023 05:11:15 PM Executing query
+02/05/2023 05:11:15 PM Checking rows
+02/05/2023 05:11:15 PM Rows already in cache
+02/05/2023 05:11:15 PM Not calling user
+02/05/2023 05:11:20 PM Querying database
+02/05/2023 05:11:20 PM Executing query
+02/05/2023 05:11:20 PM Checking rows
+02/05/2023 05:11:20 PM Rows already in cache
+02/05/2023 05:11:20 PM Not calling user
+02/05/2023 05:11:25 PM Querying database
+02/05/2023 05:11:25 PM Executing query
+02/05/2023 05:11:25 PM Checking rows
+02/05/2023 05:11:25 PM Rows already in cache
+02/05/2023 05:11:25 PM Not calling user
+02/05/2023 05:11:30 PM Querying database
+02/05/2023 05:11:30 PM Executing query
+02/05/2023 05:11:30 PM Checking rows
+02/05/2023 05:11:30 PM Rows already in cache
+02/05/2023 05:11:30 PM Not calling user
+02/05/2023 05:11:35 PM Querying database
+02/05/2023 05:11:35 PM Executing query
+02/05/2023 05:11:35 PM Checking rows
+02/05/2023 05:11:35 PM Rows already in cache
+02/05/2023 05:11:35 PM Not calling user
+02/05/2023 05:11:40 PM Querying database
+02/05/2023 05:11:40 PM Executing query
+02/05/2023 05:11:40 PM Checking rows
+02/05/2023 05:11:40 PM Rows already in cache
+02/05/2023 05:11:40 PM Not calling user
+02/05/2023 05:11:45 PM Querying database
+02/05/2023 05:11:45 PM Executing query
+02/05/2023 05:11:45 PM Checking rows
+02/05/2023 05:11:45 PM Rows already in cache
+02/05/2023 05:11:45 PM Not calling user
+02/05/2023 05:11:50 PM Querying database
+02/05/2023 05:11:50 PM Executing query
+02/05/2023 05:11:50 PM Checking rows
+02/05/2023 05:11:50 PM Rows already in cache
+02/05/2023 05:11:50 PM Not calling user
+02/05/2023 05:11:55 PM Querying database
+02/05/2023 05:11:55 PM Executing query
+02/05/2023 05:11:55 PM Checking rows
+02/05/2023 05:11:55 PM Rows already in cache
+02/05/2023 05:11:55 PM Not calling user
+02/05/2023 05:12:00 PM Querying database
+02/05/2023 05:12:00 PM Executing query
+02/05/2023 05:12:00 PM Checking rows
+02/05/2023 05:12:00 PM Rows already in cache
+02/05/2023 05:12:00 PM Not calling user
+02/05/2023 05:12:05 PM Querying database
+02/05/2023 05:12:05 PM Executing query
+02/05/2023 05:12:05 PM Checking rows
+02/05/2023 05:12:05 PM Rows already in cache
+02/05/2023 05:12:05 PM Not calling user
+02/05/2023 05:12:10 PM Querying database
+02/05/2023 05:12:10 PM Executing query
+02/05/2023 05:12:10 PM Checking rows
+02/05/2023 05:12:10 PM Rows already in cache
+02/05/2023 05:12:10 PM Not calling user
+02/05/2023 05:12:15 PM Querying database
+02/05/2023 05:12:15 PM Executing query
+02/05/2023 05:12:15 PM Checking rows
+02/05/2023 05:12:15 PM Rows already in cache
+02/05/2023 05:12:15 PM Not calling user
+02/05/2023 05:12:20 PM Querying database
+02/05/2023 05:12:20 PM Executing query
+02/05/2023 05:12:20 PM Checking rows
+02/05/2023 05:12:20 PM Rows already in cache
+02/05/2023 05:12:20 PM Not calling user
+02/05/2023 05:12:25 PM Querying database
+02/05/2023 05:12:25 PM Executing query
+02/05/2023 05:12:25 PM Checking rows
+02/05/2023 05:12:25 PM Rows already in cache
+02/05/2023 05:12:25 PM Not calling user
+02/05/2023 05:12:30 PM Querying database
+02/05/2023 05:12:30 PM Executing query
+02/05/2023 05:12:30 PM Checking rows
+02/05/2023 05:12:30 PM Rows already in cache
+02/05/2023 05:12:30 PM Not calling user
+02/05/2023 05:12:35 PM Querying database
+02/05/2023 05:12:35 PM Executing query
+02/05/2023 05:12:35 PM Checking rows
+02/05/2023 05:12:35 PM Rows already in cache
+02/05/2023 05:12:35 PM Not calling user
+02/05/2023 05:12:40 PM Querying database
+02/05/2023 05:12:40 PM Executing query
+02/05/2023 05:12:40 PM Checking rows
+02/05/2023 05:12:40 PM Rows already in cache
+02/05/2023 05:12:40 PM Not calling user
+02/05/2023 05:12:45 PM Querying database
+02/05/2023 05:12:45 PM Executing query
+02/05/2023 05:12:45 PM Checking rows
+02/05/2023 05:12:45 PM Rows already in cache
+02/05/2023 05:12:45 PM Not calling user
+02/05/2023 05:12:50 PM Querying database
+02/05/2023 05:12:50 PM Executing query
+02/05/2023 05:12:50 PM Checking rows
+02/05/2023 05:12:50 PM Rows already in cache
+02/05/2023 05:12:50 PM Not calling user
+02/05/2023 05:12:55 PM Querying database
+02/05/2023 05:12:55 PM Executing query
+02/05/2023 05:12:55 PM Checking rows
+02/05/2023 05:12:55 PM Rows already in cache
+02/05/2023 05:12:55 PM Not calling user
+02/05/2023 05:13:00 PM Querying database
+02/05/2023 05:13:00 PM Executing query
+02/05/2023 05:13:00 PM Checking rows
+02/05/2023 05:13:00 PM Rows already in cache
+02/05/2023 05:13:00 PM Not calling user
+02/05/2023 05:13:05 PM Querying database
+02/05/2023 05:13:05 PM Executing query
+02/05/2023 05:13:05 PM Checking rows
+02/05/2023 05:13:05 PM Rows already in cache
+02/05/2023 05:13:05 PM Not calling user
+02/05/2023 05:13:10 PM Querying database
+02/05/2023 05:13:10 PM Executing query
+02/05/2023 05:13:10 PM Checking rows
+02/05/2023 05:13:10 PM Rows already in cache
+02/05/2023 05:13:10 PM Not calling user
+02/05/2023 05:13:15 PM Querying database
+02/05/2023 05:13:15 PM Executing query
+02/05/2023 05:13:15 PM Checking rows
+02/05/2023 05:13:15 PM Rows already in cache
+02/05/2023 05:13:15 PM Not calling user
+02/05/2023 05:13:20 PM Querying database
+02/05/2023 05:13:20 PM Executing query
+02/05/2023 05:13:20 PM Checking rows
+02/05/2023 05:13:20 PM Rows already in cache
+02/05/2023 05:13:20 PM Not calling user
+02/05/2023 05:13:25 PM Querying database
+02/05/2023 05:13:25 PM Executing query
+02/05/2023 05:13:26 PM Checking rows
+02/05/2023 05:13:26 PM Rows already in cache
+02/05/2023 05:13:26 PM Not calling user
+02/05/2023 05:13:31 PM Querying database
+02/05/2023 05:13:31 PM Executing query
+02/05/2023 05:13:31 PM Checking rows
+02/05/2023 05:13:31 PM Rows already in cache
+02/05/2023 05:13:31 PM Not calling user
+02/05/2023 05:13:36 PM Querying database
+02/05/2023 05:13:36 PM Executing query
+02/05/2023 05:13:36 PM Checking rows
+02/05/2023 05:13:36 PM Rows already in cache
+02/05/2023 05:13:36 PM Not calling user
+02/05/2023 05:13:41 PM Querying database
+02/05/2023 05:13:41 PM Executing query
+02/05/2023 05:13:41 PM Checking rows
+02/05/2023 05:13:41 PM Rows already in cache
+02/05/2023 05:13:41 PM Not calling user
+02/05/2023 05:13:46 PM Querying database
+02/05/2023 05:13:46 PM Executing query
+02/05/2023 05:13:46 PM Checking rows
+02/05/2023 05:13:46 PM Rows already in cache
+02/05/2023 05:13:46 PM Not calling user
+02/05/2023 05:13:51 PM Querying database
+02/05/2023 05:13:51 PM Executing query
+02/05/2023 05:13:51 PM Checking rows
+02/05/2023 05:13:51 PM Rows already in cache
+02/05/2023 05:13:51 PM Not calling user
+02/05/2023 05:13:56 PM Querying database
+02/05/2023 05:13:56 PM Executing query
+02/05/2023 05:13:56 PM Checking rows
+02/05/2023 05:13:56 PM Rows already in cache
+02/05/2023 05:13:56 PM Not calling user
+02/05/2023 05:14:01 PM Querying database
+02/05/2023 05:14:01 PM Executing query
+02/05/2023 05:14:01 PM Checking rows
+02/05/2023 05:14:01 PM Rows already in cache
+02/05/2023 05:14:01 PM Not calling user
+02/05/2023 05:14:06 PM Querying database
+02/05/2023 05:14:06 PM Executing query
+02/05/2023 05:14:06 PM Checking rows
+02/05/2023 05:14:06 PM Rows already in cache
+02/05/2023 05:14:06 PM Not calling user
+02/05/2023 05:14:11 PM Querying database
+02/05/2023 05:14:11 PM Executing query
+02/05/2023 05:14:11 PM Checking rows
+02/05/2023 05:14:11 PM Rows already in cache
+02/05/2023 05:14:11 PM Not calling user
+02/05/2023 05:14:16 PM Querying database
+02/05/2023 05:14:16 PM Executing query
+02/05/2023 05:14:16 PM Checking rows
+02/05/2023 05:14:16 PM Rows already in cache
+02/05/2023 05:14:16 PM Not calling user
+02/05/2023 05:14:21 PM Querying database
+02/05/2023 05:14:21 PM Executing query
+02/05/2023 05:14:21 PM Checking rows
+02/05/2023 05:14:21 PM Rows already in cache
+02/05/2023 05:14:21 PM Not calling user
+02/05/2023 05:14:26 PM Querying database
+02/05/2023 05:14:26 PM Executing query
+02/05/2023 05:14:26 PM Checking rows
+02/05/2023 05:14:26 PM Rows already in cache
+02/05/2023 05:14:26 PM Not calling user
+02/05/2023 05:14:31 PM Querying database
+02/05/2023 05:14:31 PM Executing query
+02/05/2023 05:14:31 PM Checking rows
+02/05/2023 05:14:31 PM Rows already in cache
+02/05/2023 05:14:31 PM Not calling user
+02/05/2023 05:14:36 PM Querying database
+02/05/2023 05:14:36 PM Executing query
+02/05/2023 05:14:36 PM Checking rows
+02/05/2023 05:14:36 PM Rows already in cache
+02/05/2023 05:14:36 PM Not calling user
+02/05/2023 05:14:41 PM Querying database
+02/05/2023 05:14:41 PM Executing query
+02/05/2023 05:14:41 PM Checking rows
+02/05/2023 05:14:41 PM Rows already in cache
+02/05/2023 05:14:41 PM Not calling user
+02/05/2023 05:14:46 PM Querying database
+02/05/2023 05:14:46 PM Executing query
+02/05/2023 05:14:46 PM Checking rows
+02/05/2023 05:14:46 PM Rows already in cache
+02/05/2023 05:14:46 PM Not calling user
+02/05/2023 05:14:51 PM Querying database
+02/05/2023 05:14:51 PM Executing query
+02/05/2023 05:14:51 PM Checking rows
+02/05/2023 05:14:51 PM Rows already in cache
+02/05/2023 05:14:51 PM Not calling user
+02/05/2023 05:14:56 PM Querying database
+02/05/2023 05:14:56 PM Executing query
+02/05/2023 05:14:56 PM Checking rows
+02/05/2023 05:14:56 PM Rows already in cache
+02/05/2023 05:14:56 PM Not calling user
+02/05/2023 05:15:01 PM Querying database
+02/05/2023 05:15:01 PM Executing query
+02/05/2023 05:15:01 PM Checking rows
+02/05/2023 05:15:01 PM Rows already in cache
+02/05/2023 05:15:01 PM Not calling user
+02/05/2023 05:15:06 PM Querying database
+02/05/2023 05:15:06 PM Executing query
+02/05/2023 05:15:06 PM Checking rows
+02/05/2023 05:15:06 PM Rows already in cache
+02/05/2023 05:15:06 PM Not calling user
+02/05/2023 05:15:11 PM Querying database
+02/05/2023 05:15:11 PM Executing query
+02/05/2023 05:15:11 PM Checking rows
+02/05/2023 05:15:11 PM Rows already in cache
+02/05/2023 05:15:11 PM Not calling user
+02/05/2023 05:15:16 PM Querying database
+02/05/2023 05:15:16 PM Executing query
+02/05/2023 05:15:16 PM Checking rows
+02/05/2023 05:15:16 PM Rows already in cache
+02/05/2023 05:15:16 PM Not calling user
+02/05/2023 05:15:21 PM Querying database
+02/05/2023 05:15:21 PM Executing query
+02/05/2023 05:15:21 PM Checking rows
+02/05/2023 05:15:21 PM Rows already in cache
+02/05/2023 05:15:21 PM Not calling user
+02/05/2023 05:15:26 PM Querying database
+02/05/2023 05:15:26 PM Executing query
+02/05/2023 05:15:26 PM Checking rows
+02/05/2023 05:15:26 PM Rows already in cache
+02/05/2023 05:15:26 PM Not calling user
+02/05/2023 05:15:31 PM Querying database
+02/05/2023 05:15:31 PM Executing query
+02/05/2023 05:15:32 PM Checking rows
+02/05/2023 05:15:32 PM Rows already in cache
+02/05/2023 05:15:32 PM Not calling user
+02/05/2023 05:15:37 PM Querying database
+02/05/2023 05:15:37 PM Executing query
+02/05/2023 05:15:37 PM Checking rows
+02/05/2023 05:15:37 PM Rows already in cache
+02/05/2023 05:15:37 PM Not calling user
+02/05/2023 05:15:42 PM Querying database
+02/05/2023 05:15:42 PM Executing query
+02/05/2023 05:15:42 PM Checking rows
+02/05/2023 05:15:42 PM Rows already in cache
+02/05/2023 05:15:42 PM Not calling user
+02/05/2023 05:15:47 PM Querying database
+02/05/2023 05:15:47 PM Executing query
+02/05/2023 05:15:47 PM Checking rows
+02/05/2023 05:15:47 PM Rows already in cache
+02/05/2023 05:15:47 PM Not calling user
+02/05/2023 05:15:52 PM Querying database
+02/05/2023 05:15:52 PM Executing query
+02/05/2023 05:15:52 PM Checking rows
+02/05/2023 05:15:52 PM Rows already in cache
+02/05/2023 05:15:52 PM Not calling user
+02/05/2023 05:15:57 PM Querying database
+02/05/2023 05:15:57 PM Executing query
+02/05/2023 05:15:57 PM Checking rows
+02/05/2023 05:15:57 PM Rows already in cache
+02/05/2023 05:15:57 PM Not calling user
+02/05/2023 05:16:02 PM Querying database
+02/05/2023 05:16:02 PM Executing query
+02/05/2023 05:16:02 PM Checking rows
+02/05/2023 05:16:02 PM Rows already in cache
+02/05/2023 05:16:02 PM Not calling user
+02/05/2023 05:16:07 PM Querying database
+02/05/2023 05:16:07 PM Executing query
+02/05/2023 05:16:07 PM Checking rows
+02/05/2023 05:16:07 PM Rows already in cache
+02/05/2023 05:16:07 PM Not calling user
+02/05/2023 05:16:12 PM Querying database
+02/05/2023 05:16:12 PM Executing query
+02/05/2023 05:16:12 PM Checking rows
+02/05/2023 05:16:12 PM Rows already in cache
+02/05/2023 05:16:12 PM Not calling user
+02/05/2023 05:16:17 PM Querying database
+02/05/2023 05:16:17 PM Executing query
+02/05/2023 05:16:17 PM Checking rows
+02/05/2023 05:16:17 PM Rows already in cache
+02/05/2023 05:16:17 PM Not calling user
+02/05/2023 05:16:22 PM Querying database
+02/05/2023 05:16:22 PM Executing query
+02/05/2023 05:16:22 PM Checking rows
+02/05/2023 05:16:22 PM Rows already in cache
+02/05/2023 05:16:22 PM Not calling user
+02/05/2023 05:16:27 PM Querying database
+02/05/2023 05:16:27 PM Executing query
+02/05/2023 05:16:27 PM Checking rows
+02/05/2023 05:16:27 PM Rows already in cache
+02/05/2023 05:16:27 PM Not calling user
+02/05/2023 05:16:32 PM Querying database
+02/05/2023 05:16:32 PM Executing query
+02/05/2023 05:16:32 PM Checking rows
+02/05/2023 05:16:32 PM Rows already in cache
+02/05/2023 05:16:32 PM Not calling user
+02/05/2023 05:16:37 PM Querying database
+02/05/2023 05:16:37 PM Executing query
+02/05/2023 05:16:37 PM Checking rows
+02/05/2023 05:16:37 PM Rows already in cache
+02/05/2023 05:16:37 PM Not calling user
+02/05/2023 05:16:42 PM Querying database
+02/05/2023 05:16:42 PM Executing query
+02/05/2023 05:16:42 PM Checking rows
+02/05/2023 05:16:42 PM Rows already in cache
+02/05/2023 05:16:42 PM Not calling user
+02/05/2023 05:16:47 PM Querying database
+02/05/2023 05:16:47 PM Executing query
+02/05/2023 05:16:47 PM Checking rows
+02/05/2023 05:16:47 PM Rows already in cache
+02/05/2023 05:16:47 PM Not calling user
+02/05/2023 05:16:52 PM Querying database
+02/05/2023 05:16:52 PM Executing query
+02/05/2023 05:16:52 PM Checking rows
+02/05/2023 05:16:52 PM Rows already in cache
+02/05/2023 05:16:52 PM Not calling user
+02/05/2023 05:16:57 PM Querying database
+02/05/2023 05:16:57 PM Executing query
+02/05/2023 05:16:57 PM Checking rows
+02/05/2023 05:16:57 PM Rows already in cache
+02/05/2023 05:16:57 PM Not calling user
+02/05/2023 05:17:02 PM Querying database
+02/05/2023 05:17:02 PM Executing query
+02/05/2023 05:17:02 PM Checking rows
+02/05/2023 05:17:02 PM Rows already in cache
+02/05/2023 05:17:02 PM Not calling user
+02/05/2023 05:17:07 PM Querying database
+02/05/2023 05:17:07 PM Executing query
+02/05/2023 05:17:07 PM Checking rows
+02/05/2023 05:17:07 PM Rows already in cache
+02/05/2023 05:17:07 PM Not calling user
+02/05/2023 05:17:12 PM Querying database
+02/05/2023 05:17:12 PM Executing query
+02/05/2023 05:17:12 PM Checking rows
+02/05/2023 05:17:12 PM Rows already in cache
+02/05/2023 05:17:12 PM Not calling user
+02/05/2023 05:17:17 PM Querying database
+02/05/2023 05:17:17 PM Executing query
+02/05/2023 05:17:17 PM Checking rows
+02/05/2023 05:17:17 PM Rows already in cache
+02/05/2023 05:17:17 PM Not calling user
+02/05/2023 05:17:22 PM Querying database
+02/05/2023 05:17:22 PM Executing query
+02/05/2023 05:17:22 PM Checking rows
+02/05/2023 05:17:22 PM Rows already in cache
+02/05/2023 05:17:22 PM Not calling user
+02/05/2023 05:17:27 PM Querying database
+02/05/2023 05:17:27 PM Executing query
+02/05/2023 05:17:27 PM Checking rows
+02/05/2023 05:17:27 PM Rows already in cache
+02/05/2023 05:17:27 PM Not calling user
+02/05/2023 05:17:32 PM Querying database
+02/05/2023 05:17:32 PM Executing query
+02/05/2023 05:17:32 PM Checking rows
+02/05/2023 05:17:32 PM Rows already in cache
+02/05/2023 05:17:32 PM Not calling user
+02/05/2023 05:17:37 PM Querying database
+02/05/2023 05:17:37 PM Executing query
+02/05/2023 05:17:37 PM Checking rows
+02/05/2023 05:17:37 PM Rows already in cache
+02/05/2023 05:17:37 PM Not calling user
+02/05/2023 05:17:42 PM Querying database
+02/05/2023 05:17:42 PM Executing query
+02/05/2023 05:17:42 PM Checking rows
+02/05/2023 05:17:42 PM Rows already in cache
+02/05/2023 05:17:42 PM Not calling user
+02/05/2023 05:17:47 PM Querying database
+02/05/2023 05:17:47 PM Executing query
+02/05/2023 05:17:48 PM Checking rows
+02/05/2023 05:17:48 PM Rows already in cache
+02/05/2023 05:17:48 PM Not calling user
+02/05/2023 05:17:53 PM Querying database
+02/05/2023 05:17:53 PM Executing query
+02/05/2023 05:17:53 PM Checking rows
+02/05/2023 05:17:53 PM Rows already in cache
+02/05/2023 05:17:53 PM Not calling user
+02/05/2023 05:17:58 PM Querying database
+02/05/2023 05:17:58 PM Executing query
+02/05/2023 05:17:58 PM Checking rows
+02/05/2023 05:17:58 PM Rows already in cache
+02/05/2023 05:17:58 PM Not calling user
+02/05/2023 05:18:03 PM Querying database
+02/05/2023 05:18:03 PM Executing query
+02/05/2023 05:18:03 PM Checking rows
+02/05/2023 05:18:03 PM Rows already in cache
+02/05/2023 05:18:03 PM Not calling user
+02/05/2023 05:18:08 PM Querying database
+02/05/2023 05:18:08 PM Executing query
+02/05/2023 05:18:08 PM Checking rows
+02/05/2023 05:18:08 PM Rows already in cache
+02/05/2023 05:18:08 PM Not calling user
+02/05/2023 05:18:13 PM Querying database
+02/05/2023 05:18:13 PM Executing query
+02/05/2023 05:18:13 PM Checking rows
+02/05/2023 05:18:13 PM Rows already in cache
+02/05/2023 05:18:13 PM Not calling user
+02/05/2023 05:18:18 PM Querying database
+02/05/2023 05:18:18 PM Executing query
+02/05/2023 05:18:18 PM Checking rows
+02/05/2023 05:18:18 PM Rows already in cache
+02/05/2023 05:18:18 PM Not calling user
+02/05/2023 05:18:23 PM Querying database
+02/05/2023 05:18:23 PM Executing query
+02/05/2023 05:18:23 PM Checking rows
+02/05/2023 05:18:23 PM Rows already in cache
+02/05/2023 05:18:23 PM Not calling user
+02/05/2023 05:18:28 PM Querying database
+02/05/2023 05:18:28 PM Executing query
+02/05/2023 05:18:28 PM Checking rows
+02/05/2023 05:18:28 PM Rows already in cache
+02/05/2023 05:18:28 PM Not calling user
+02/05/2023 05:18:33 PM Querying database
+02/05/2023 05:18:33 PM Executing query
+02/05/2023 05:18:33 PM Checking rows
+02/05/2023 05:18:33 PM Rows already in cache
+02/05/2023 05:18:33 PM Not calling user
+02/05/2023 05:18:38 PM Querying database
+02/05/2023 05:18:38 PM Executing query
+02/05/2023 05:18:38 PM Checking rows
+02/05/2023 05:18:38 PM Rows already in cache
+02/05/2023 05:18:38 PM Not calling user
+02/05/2023 05:18:43 PM Querying database
+02/05/2023 05:18:43 PM Executing query
+02/05/2023 05:18:43 PM Checking rows
+02/05/2023 05:18:43 PM Rows already in cache
+02/05/2023 05:18:43 PM Not calling user
+02/05/2023 05:18:48 PM Querying database
+02/05/2023 05:18:48 PM Executing query
+02/05/2023 05:18:48 PM Checking rows
+02/05/2023 05:18:48 PM Rows already in cache
+02/05/2023 05:18:48 PM Not calling user
+02/05/2023 05:18:53 PM Querying database
+02/05/2023 05:18:53 PM Executing query
+02/05/2023 05:18:53 PM Checking rows
+02/05/2023 05:18:53 PM Rows already in cache
+02/05/2023 05:18:53 PM Not calling user
+02/05/2023 05:18:58 PM Querying database
+02/05/2023 05:18:58 PM Executing query
+02/05/2023 05:18:58 PM Checking rows
+02/05/2023 05:18:58 PM Rows already in cache
+02/05/2023 05:18:58 PM Not calling user
+02/05/2023 05:19:03 PM Querying database
+02/05/2023 05:19:03 PM Executing query
+02/05/2023 05:19:03 PM Checking rows
+02/05/2023 05:19:03 PM Rows already in cache
+02/05/2023 05:19:03 PM Not calling user
+02/05/2023 05:19:08 PM Querying database
+02/05/2023 05:19:08 PM Executing query
+02/05/2023 05:19:08 PM Checking rows
+02/05/2023 05:19:08 PM Rows already in cache
+02/05/2023 05:19:08 PM Not calling user
+02/05/2023 05:19:13 PM Querying database
+02/05/2023 05:19:13 PM Executing query
+02/05/2023 05:19:13 PM Checking rows
+02/05/2023 05:19:13 PM Rows already in cache
+02/05/2023 05:19:13 PM Not calling user
+02/05/2023 05:19:18 PM Querying database
+02/05/2023 05:19:18 PM Executing query
+02/05/2023 05:19:18 PM Checking rows
+02/05/2023 05:19:18 PM Rows already in cache
+02/05/2023 05:19:18 PM Not calling user
+02/05/2023 05:19:23 PM Querying database
+02/05/2023 05:19:23 PM Executing query
+02/05/2023 05:19:23 PM Checking rows
+02/05/2023 05:19:23 PM Rows already in cache
+02/05/2023 05:19:23 PM Not calling user
+02/05/2023 05:19:28 PM Querying database
+02/05/2023 05:19:28 PM Executing query
+02/05/2023 05:19:28 PM Checking rows
+02/05/2023 05:19:28 PM Rows already in cache
+02/05/2023 05:19:28 PM Not calling user
+02/05/2023 05:19:33 PM Querying database
+02/05/2023 05:19:33 PM Executing query
+02/05/2023 05:19:33 PM Checking rows
+02/05/2023 05:19:33 PM Rows already in cache
+02/05/2023 05:19:33 PM Not calling user
+02/05/2023 05:19:38 PM Querying database
+02/05/2023 05:19:38 PM Executing query
+02/05/2023 05:19:38 PM Checking rows
+02/05/2023 05:19:38 PM Rows already in cache
+02/05/2023 05:19:38 PM Not calling user
+02/05/2023 05:19:43 PM Querying database
+02/05/2023 05:19:43 PM Executing query
+02/05/2023 05:19:43 PM Checking rows
+02/05/2023 05:19:43 PM Rows already in cache
+02/05/2023 05:19:43 PM Not calling user
+02/05/2023 05:20:17 PM Starting
+02/05/2023 05:20:17 PM Initializing
+02/05/2023 05:20:17 PM Connecting to database
+02/05/2023 05:20:17 PM Creating Twilio client
+02/05/2023 05:20:17 PM Getting all uniq_id
+02/05/2023 05:20:17 PM Querying database
+02/05/2023 05:20:17 PM Executing query
+02/05/2023 05:20:18 PM Checking rows
+02/05/2023 05:20:18 PM New row found
+02/05/2023 05:20:18 PM Cache does not exist
+02/05/2023 05:20:18 PM Not calling user
+02/05/2023 05:20:18 PM Sending email
+02/05/2023 05:20:18 PM object of type 'alert_bot' has no len()
+02/05/2023 05:20:18 PM Could not send email
