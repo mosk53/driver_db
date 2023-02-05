@@ -2571,3 +2571,144 @@
 02/05/2023 04:44:19 PM Checking rows
 02/05/2023 04:44:19 PM Rows already in cache
 02/05/2023 04:44:19 PM Not calling user
+02/05/2023 05:55:06 PM Starting
+02/05/2023 05:55:06 PM Initializing
+02/05/2023 05:55:06 PM Connecting to database
+02/05/2023 05:55:07 PM Creating Twilio client
+02/05/2023 05:55:07 PM Getting all uniq_id
+02/05/2023 05:55:07 PM Querying database
+02/05/2023 05:55:07 PM Executing query
+02/05/2023 05:55:07 PM Checking rows
+02/05/2023 05:55:07 PM New row found
+02/05/2023 05:55:07 PM cannot access local variable 'first_run' where it is not associated with a value
+02/05/2023 05:55:07 PM Could not check rows
+02/05/2023 05:55:12 PM Querying database
+02/05/2023 05:55:12 PM Executing query
+02/05/2023 05:55:12 PM Checking rows
+02/05/2023 05:55:12 PM Rows already in cache
+02/05/2023 05:55:12 PM Not calling user
+02/05/2023 05:55:17 PM Querying database
+02/05/2023 05:55:17 PM Executing query
+02/05/2023 05:55:17 PM Checking rows
+02/05/2023 05:55:17 PM Rows already in cache
+02/05/2023 05:55:17 PM Not calling user
+02/05/2023 05:55:22 PM Querying database
+02/05/2023 05:55:22 PM Executing query
+02/05/2023 05:55:22 PM Checking rows
+02/05/2023 05:55:22 PM Rows already in cache
+02/05/2023 05:55:22 PM Not calling user
+02/05/2023 05:57:10 PM Starting
+02/05/2023 05:57:10 PM Initializing
+02/05/2023 05:57:10 PM Connecting to database
+02/05/2023 05:57:10 PM Creating Twilio client
+02/05/2023 05:57:10 PM Getting all uniq_id
+02/05/2023 05:57:10 PM Querying database
+02/05/2023 05:57:10 PM Executing query
+02/05/2023 05:57:10 PM Checking rows
+02/05/2023 05:57:10 PM New row found
+02/05/2023 05:57:10 PM 'alert_bot' object has no attribute 'first_run'
+02/05/2023 05:57:10 PM Could not check rows
+02/05/2023 05:57:15 PM Querying database
+02/05/2023 05:57:15 PM Executing query
+02/05/2023 05:57:15 PM Checking rows
+02/05/2023 05:57:15 PM Rows already in cache
+02/05/2023 05:57:15 PM Not calling user
+02/05/2023 05:57:20 PM Querying database
+02/05/2023 05:57:20 PM Executing query
+02/05/2023 05:57:20 PM Checking rows
+02/05/2023 05:57:20 PM Rows already in cache
+02/05/2023 05:57:20 PM Not calling user
+02/05/2023 05:58:24 PM Starting
+02/05/2023 05:58:24 PM Initializing
+02/05/2023 05:58:24 PM Connecting to database
+02/05/2023 05:58:24 PM Creating Twilio client
+02/05/2023 05:58:24 PM Getting all uniq_id
+02/05/2023 05:58:25 PM Querying database
+02/05/2023 05:58:25 PM Executing query
+02/05/2023 05:58:25 PM Checking rows
+02/05/2023 05:58:25 PM New row found
+02/05/2023 05:58:25 PM 'alert_bot' object has no attribute 'first_run'
+02/05/2023 05:58:25 PM Could not check rows
+02/05/2023 05:58:30 PM Querying database
+02/05/2023 05:58:30 PM Executing query
+02/05/2023 05:58:30 PM Checking rows
+02/05/2023 05:58:30 PM Rows already in cache
+02/05/2023 05:58:30 PM Not calling user
+02/05/2023 05:59:25 PM Starting
+02/05/2023 05:59:25 PM Initializing
+02/05/2023 05:59:25 PM Connecting to database
+02/05/2023 05:59:25 PM Creating Twilio client
+02/05/2023 05:59:25 PM Getting all uniq_id
+02/05/2023 05:59:25 PM Querying database
+02/05/2023 05:59:25 PM Executing query
+02/05/2023 05:59:25 PM Checking rows
+02/05/2023 05:59:25 PM New row found
+02/05/2023 05:59:25 PM cannot access local variable 'first_run' where it is not associated with a value
+02/05/2023 05:59:25 PM Could not check rows
+02/05/2023 05:59:30 PM Querying database
+02/05/2023 05:59:30 PM Executing query
+02/05/2023 05:59:30 PM Checking rows
+02/05/2023 05:59:30 PM Rows already in cache
+02/05/2023 05:59:30 PM Not calling user
+02/05/2023 05:59:35 PM Querying database
+02/05/2023 05:59:35 PM Executing query
+02/05/2023 05:59:35 PM Checking rows
+02/05/2023 05:59:35 PM Rows already in cache
+02/05/2023 05:59:35 PM Not calling user
+02/05/2023 05:59:40 PM Querying database
+02/05/2023 05:59:40 PM Executing query
+02/05/2023 05:59:40 PM Checking rows
+02/05/2023 05:59:40 PM Rows already in cache
+02/05/2023 05:59:40 PM Not calling user
+02/05/2023 05:59:45 PM Querying database
+02/05/2023 05:59:45 PM Executing query
+02/05/2023 05:59:45 PM Checking rows
+02/05/2023 05:59:45 PM Rows already in cache
+02/05/2023 05:59:45 PM Not calling user
+02/05/2023 05:59:50 PM Querying database
+02/05/2023 05:59:50 PM Executing query
+02/05/2023 05:59:50 PM Checking rows
+02/05/2023 05:59:50 PM Rows already in cache
+02/05/2023 05:59:50 PM Not calling user
+02/05/2023 05:59:55 PM Querying database
+02/05/2023 05:59:55 PM Executing query
+02/05/2023 05:59:56 PM Checking rows
+02/05/2023 05:59:56 PM Rows already in cache
+02/05/2023 05:59:56 PM Not calling user
+02/05/2023 06:00:24 PM Starting
+02/05/2023 06:00:24 PM Initializing
+02/05/2023 06:00:24 PM Connecting to database
+02/05/2023 06:00:24 PM Creating Twilio client
+02/05/2023 06:00:24 PM Getting all uniq_id
+02/05/2023 06:00:24 PM Querying database
+02/05/2023 06:00:24 PM Executing query
+02/05/2023 06:00:24 PM Checking rows
+02/05/2023 06:00:24 PM New row found
+02/05/2023 06:00:24 PM cannot access local variable 'first_run' where it is not associated with a value
+02/05/2023 06:00:24 PM Could not check rows
+02/05/2023 06:00:29 PM Querying database
+02/05/2023 06:00:29 PM Executing query
+02/05/2023 06:00:29 PM Checking rows
+02/05/2023 06:00:29 PM Rows already in cache
+02/05/2023 06:00:29 PM Not calling user
+02/05/2023 06:00:34 PM Querying database
+02/05/2023 06:00:34 PM Executing query
+02/05/2023 06:00:34 PM Checking rows
+02/05/2023 06:00:34 PM Rows already in cache
+02/05/2023 06:00:34 PM Not calling user
+02/05/2023 06:01:24 PM Starting
+02/05/2023 06:01:24 PM Initializing
+02/05/2023 06:01:24 PM Connecting to database
+02/05/2023 06:01:24 PM Creating Twilio client
+02/05/2023 06:01:24 PM Getting all uniq_id
+02/05/2023 06:01:24 PM Querying database
+02/05/2023 06:01:24 PM Executing query
+02/05/2023 06:01:24 PM Checking rows
+02/05/2023 06:01:24 PM New row found
+02/05/2023 06:01:24 PM name 'first_run' is not defined
+02/05/2023 06:01:24 PM Could not check rows
+02/05/2023 06:01:29 PM Querying database
+02/05/2023 06:01:29 PM Executing query
+02/05/2023 06:01:29 PM Checking rows
+02/05/2023 06:01:29 PM Rows already in cache
+02/05/2023 06:01:29 PM Not calling user

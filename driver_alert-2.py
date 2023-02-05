@@ -6,8 +6,7 @@ import smtplib
 
 
 log.basicConfig(filename='log.log', level=log.DEBUG, format='%(asctime)s %(message)s', datefmt='%m/%d/%Y %I:%M:%S %p')
-
-frist_run = True
+first_run = True
 
 # Twilio credentials
 tw_account_sid = "AC5d5567ee7f64c99283cd6dc5fb9c7fe0"
@@ -53,7 +52,6 @@ class alert_bot():
         except Exception as e:
             log.error(e)
             log.error("Could not create Twilio client")
-
         self.cache = self.get_all_uniq_id()
 
     def check_db(self):
@@ -102,7 +100,7 @@ class alert_bot():
             log.error("Could not check rows")
 
     def call_me(self):
-        global frist_run
+        global first_run
         if first_run:
             log.info("Cache does not exist")
             print("Cache does not exist")
