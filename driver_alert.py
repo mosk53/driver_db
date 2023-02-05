@@ -6,7 +6,7 @@ from time import sleep
 log.basicConfig(filename='log.log', level=log.DEBUG, format='%(asctime)s %(message)s', datefmt='%m/%d/%Y %I:%M:%S %p')
 
 test = True
-
+cache_exists = True
 
 class alert_bot():
     log.info("Starting")
@@ -27,8 +27,8 @@ class alert_bot():
         try:
             print("Creating Twilio client")
             log.info("Creating Twilio client")
-            account_sid = "AC5d5567ee7f64c99283cd6dc5fb9c7fe0"
-            auth_token = "d72ffeec8bd614ec17942e826ea57876"
+            account_sid = "XXX"
+            auth_token = "XXX"
             self.client = Client(account_sid, auth_token)
         except Exception as e:
             log.error(e)
@@ -81,12 +81,17 @@ class alert_bot():
             log.error("Could not check rows")
 
     def call_me(self):
-        if test == True:
-            print("called test mode")
+        global cache_exists
+        if cache_exists:
+            log.info("Cache does not exist")
+            print("Cache does not exist")
+            log.info("Not calling user")
+            print("Not calling user")
+            cache_exists = False
         else:
-            log.info("Calling User")
-            print("Calling User")
             try:
+                print("Calling user")
+                log.info("Calling user")
                 call = self.client.calls.create(
                     url="http://demo.twilio.com/docs/voice.xml",
                     to="+4917663385873",
@@ -95,6 +100,7 @@ class alert_bot():
             except Exception as e:
                 log.error(e)
                 log.error("Could not call user")
+            
 
     def get_all_uniq_id(self):
         log.info("Getting all uniq_id")
