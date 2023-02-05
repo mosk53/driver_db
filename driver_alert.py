@@ -5,12 +5,13 @@ from time import sleep
 
 log.basicConfig(filename='log.log', level=log.DEBUG, format='%(asctime)s %(message)s', datefmt='%m/%d/%Y %I:%M:%S %p')
 
+test = True
+
 
 class alert_bot():
     log.info("Starting")
     def __init__(self):
         log.info("Initializing")
-        cache = []
         try:
             print("Connecting to database")
             log.info("Connecting to database") 
@@ -27,58 +28,88 @@ class alert_bot():
             print("Creating Twilio client")
             log.info("Creating Twilio client")
             account_sid = "AC5d5567ee7f64c99283cd6dc5fb9c7fe0"
-            auth_token = "c7c8a7bdbccd7ac05ef7b8e64d265d76"
+            auth_token = "d72ffeec8bd614ec17942e826ea57876"
             self.client = Client(account_sid, auth_token)
         except Exception as e:
-            print(e)
+            log.error(e)
             log.error("Could not create Twilio client")
+
+        self.cache = self.get_all_uniq_id()
 
     def check_db(self):
         print("Starting")
         # Query the database
         log.info("Querying database")
         print("Querying database")
-        query = (
-            "SELECT * FROM jo348_chro_cf_dtb_order WHERE driverrealstart BETWEEN DATE_SUB(NOW(), INTERVAL 10 MINUTE) AND DATE_ADD(driverplanstart, INTERVAL 5 MINUTE)"
-        )
+        query = ("SELECT uniq_id FROM jo348_chro_cf_dtb_order WHERE driverrealstart > driverplanstart + INTERVAL 5 MINUTE;")
         # Execute the query and fetch the rows
         try:
             log.info("Executing query")
             self.cursor = self.db.cursor()
             self.cursor.execute(query)
             rows = self.cursor.fetchall()
+            self.check_row(rows)
         except Exception as e:
-            print(e)
+            log.error(e)
             log.error("Could not execute query")
 
-    def check_rows(rows, self):
-        # Check if exists
+    def check_row(self, rows):
+        log.info("Checking rows")
+        print("Checking rows")
+        found = False
         try:
-            if rows:
-                print("Rows found")
-                log.info("New rows found")
+            for row in rows:
+                uniq_id = row[0]
+                if uniq_id not in self.cache:
+                    self.cache.append(uniq_id)
+                    found = True
+                else:
+                    continue
+
+            if found:
+                print("New row found")
+                log.info("New row found")
                 self.call_me()
+            else:
+                log.info("Rows already in cache")
+                print("Rows already in cache")
+                log.info("Not calling user")
+                print("Not calling user")
+
         except Exception as e:
             log.error(e)
             log.error("Could not check rows")
 
-
-
     def call_me(self):
-        log.info("Calling User")
-        print("Calling User")
+        if test == True:
+            print("called test mode")
+        else:
+            log.info("Calling User")
+            print("Calling User")
+            try:
+                call = self.client.calls.create(
+                    url="http://demo.twilio.com/docs/voice.xml",
+                    to="+4917663385873",
+                    from_="+19135132511"
+                    )
+            except Exception as e:
+                log.error(e)
+                log.error("Could not call user")
+
+    def get_all_uniq_id(self):
+        log.info("Getting all uniq_id")
+        print("Getting all uniq_id")
+        query = (
+            "SELECT uniq_id FROM jo348_chro_cf_dtb_order"
+        )
         try:
-            call = self.client.calls.create(
-                url="http://demo.twilio.com/docs/voice.xml",
-                to="+4917663385873",
-                from_="+19135132511"
-                )
+            self.cursor = self.db.cursor()
+            self.cursor.execute(query)
+            cache = self.cursor.fetchall()
+            return cache
         except Exception as e:
             print(e)
-            log.error("Could not call user")
-
-    def clear_cache(self):
-        self.cache = []
+            log.error("Could not get all uniq_id")
 
     def __del__(self):
         self.cursor.close()
@@ -91,4 +122,4 @@ if __name__ == "__main__":
     bot = alert_bot()
     while True:
         bot.check_db()
-        sleep(600)
+        sleep(5)

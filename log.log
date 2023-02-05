@@ -36,3 +36,2388 @@
 02/05/2023 01:07:05 AM Creating Twilio client
 02/05/2023 01:07:05 AM Querying database
 02/05/2023 01:07:05 AM Executing query
+02/05/2023 01:27:26 AM Starting
+02/05/2023 01:27:26 AM Initializing
+02/05/2023 01:27:26 AM Connecting to database
+02/05/2023 01:27:26 AM Creating Twilio client
+02/05/2023 01:27:26 AM Querying database
+02/05/2023 01:27:26 AM Executing query
+02/05/2023 02:33:06 AM Starting
+02/05/2023 02:33:06 AM Initializing
+02/05/2023 02:33:06 AM Connecting to database
+02/05/2023 02:33:06 AM Creating Twilio client
+02/05/2023 02:33:06 AM Getting all uniq_id
+02/05/2023 02:33:06 AM Querying database
+02/05/2023 02:33:06 AM Executing query
+02/05/2023 02:33:06 AM alert_bot.check_row() takes 2 positional arguments but 3 were given
+02/05/2023 02:33:06 AM Could not execute query
+02/05/2023 02:35:12 AM Starting
+02/05/2023 02:35:12 AM Initializing
+02/05/2023 02:35:12 AM Connecting to database
+02/05/2023 02:35:12 AM Creating Twilio client
+02/05/2023 02:35:12 AM Getting all uniq_id
+02/05/2023 02:35:12 AM Querying database
+02/05/2023 02:35:12 AM Executing query
+02/05/2023 02:35:12 AM alert_bot.check_row() takes 2 positional arguments but 3 were given
+02/05/2023 02:35:12 AM Could not execute query
+02/05/2023 02:35:57 AM Starting
+02/05/2023 02:35:57 AM Initializing
+02/05/2023 02:35:57 AM Connecting to database
+02/05/2023 02:35:58 AM Creating Twilio client
+02/05/2023 02:35:58 AM Getting all uniq_id
+02/05/2023 02:35:58 AM Querying database
+02/05/2023 02:35:58 AM Executing query
+02/05/2023 02:35:58 AM Checking rows
+02/05/2023 02:35:58 AM 'alert_bot' object is not iterable
+02/05/2023 02:35:58 AM Could not check rows
+02/05/2023 02:44:26 AM Starting
+02/05/2023 02:44:26 AM Initializing
+02/05/2023 02:44:26 AM Connecting to database
+02/05/2023 02:44:26 AM Creating Twilio client
+02/05/2023 02:44:26 AM Getting all uniq_id
+02/05/2023 02:44:26 AM Getting all uniq_id
+02/05/2023 02:48:32 AM Starting
+02/05/2023 02:48:32 AM Initializing
+02/05/2023 02:48:32 AM Connecting to database
+02/05/2023 02:48:32 AM Creating Twilio client
+02/05/2023 02:48:32 AM Getting all uniq_id
+02/05/2023 02:48:32 AM Getting all uniq_id
+02/05/2023 02:48:32 AM Querying database
+02/05/2023 02:48:32 AM Executing query
+02/05/2023 02:48:32 AM Checking rows
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:48:32 AM New row found
+02/05/2023 02:51:38 AM Starting
+02/05/2023 02:51:38 AM Initializing
+02/05/2023 02:51:38 AM Connecting to database
+02/05/2023 02:51:38 AM Creating Twilio client
+02/05/2023 02:51:38 AM Getting all uniq_id
+02/05/2023 02:51:38 AM Getting all uniq_id
+02/05/2023 02:51:38 AM Querying database
+02/05/2023 02:51:38 AM Executing query
+02/05/2023 02:51:38 AM Checking rows
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:51:38 AM New row found
+02/05/2023 02:52:03 AM Starting
+02/05/2023 02:52:03 AM Initializing
+02/05/2023 02:52:03 AM Connecting to database
+02/05/2023 02:52:03 AM Creating Twilio client
+02/05/2023 02:52:03 AM Getting all uniq_id
+02/05/2023 02:52:04 AM Getting all uniq_id
+02/05/2023 02:52:04 AM Querying database
+02/05/2023 02:52:04 AM Executing query
+02/05/2023 02:52:04 AM Checking rows
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:04 AM New row found
+02/05/2023 02:52:19 AM Starting
+02/05/2023 02:52:19 AM Initializing
+02/05/2023 02:52:19 AM Connecting to database
+02/05/2023 02:52:19 AM Creating Twilio client
+02/05/2023 02:52:19 AM Getting all uniq_id
+02/05/2023 02:52:19 AM Getting all uniq_id
+02/05/2023 02:52:19 AM Querying database
+02/05/2023 02:52:19 AM Executing query
+02/05/2023 02:52:20 AM Checking rows
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:20 AM New row found
+02/05/2023 02:52:25 AM Querying database
+02/05/2023 02:52:25 AM Executing query
+02/05/2023 02:52:25 AM Checking rows
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM No new rows found
+02/05/2023 02:52:25 AM cannot access local variable 'found' where it is not associated with a value
+02/05/2023 02:52:25 AM Could not check rows
+02/05/2023 02:54:30 AM Starting
+02/05/2023 02:54:30 AM Initializing
+02/05/2023 02:54:30 AM Connecting to database
+02/05/2023 02:54:30 AM Creating Twilio client
+02/05/2023 02:54:30 AM Getting all uniq_id
+02/05/2023 02:54:30 AM Getting all uniq_id
+02/05/2023 02:54:30 AM Querying database
+02/05/2023 02:54:30 AM Executing query
+02/05/2023 02:54:30 AM Checking rows
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:30 AM New row found
+02/05/2023 02:54:35 AM Querying database
+02/05/2023 02:54:35 AM Executing query
+02/05/2023 02:54:36 AM Checking rows
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM No new rows found
+02/05/2023 02:54:36 AM cannot access local variable 'found' where it is not associated with a value
+02/05/2023 02:54:36 AM Could not check rows
+02/05/2023 02:54:41 AM Querying database
+02/05/2023 02:54:41 AM Executing query
+02/05/2023 02:54:41 AM Checking rows
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM No new rows found
+02/05/2023 02:54:41 AM cannot access local variable 'found' where it is not associated with a value
+02/05/2023 02:54:41 AM Could not check rows
+02/05/2023 02:54:46 AM Querying database
+02/05/2023 02:54:46 AM Executing query
+02/05/2023 02:54:46 AM Checking rows
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM No new rows found
+02/05/2023 02:54:46 AM cannot access local variable 'found' where it is not associated with a value
+02/05/2023 02:54:46 AM Could not check rows
+02/05/2023 02:54:51 AM Querying database
+02/05/2023 02:54:51 AM Executing query
+02/05/2023 02:54:51 AM Checking rows
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM No new rows found
+02/05/2023 02:54:51 AM cannot access local variable 'found' where it is not associated with a value
+02/05/2023 02:54:51 AM Could not check rows
+02/05/2023 02:54:56 AM Querying database
+02/05/2023 02:54:56 AM Executing query
+02/05/2023 02:54:56 AM Checking rows
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM No new rows found
+02/05/2023 02:54:56 AM cannot access local variable 'found' where it is not associated with a value
+02/05/2023 02:54:56 AM Could not check rows
+02/05/2023 02:55:01 AM Querying database
+02/05/2023 02:55:01 AM Executing query
+02/05/2023 02:55:01 AM Checking rows
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM No new rows found
+02/05/2023 02:55:01 AM cannot access local variable 'found' where it is not associated with a value
+02/05/2023 02:55:01 AM Could not check rows
+02/05/2023 02:55:43 AM Starting
+02/05/2023 02:55:43 AM Initializing
+02/05/2023 02:55:43 AM Connecting to database
+02/05/2023 02:55:43 AM Creating Twilio client
+02/05/2023 02:55:43 AM Getting all uniq_id
+02/05/2023 02:55:44 AM Getting all uniq_id
+02/05/2023 02:55:44 AM Querying database
+02/05/2023 02:55:44 AM Executing query
+02/05/2023 02:55:44 AM Checking rows
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:44 AM New row found
+02/05/2023 02:55:49 AM Querying database
+02/05/2023 02:55:49 AM Executing query
+02/05/2023 02:55:49 AM Checking rows
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM No new rows found
+02/05/2023 02:55:49 AM cannot access local variable 'found' where it is not associated with a value
+02/05/2023 02:55:49 AM Could not check rows
+02/05/2023 02:55:54 AM Querying database
+02/05/2023 02:55:54 AM Executing query
+02/05/2023 02:55:54 AM Checking rows
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM No new rows found
+02/05/2023 02:55:54 AM cannot access local variable 'found' where it is not associated with a value
+02/05/2023 02:55:54 AM Could not check rows
+02/05/2023 03:00:11 AM Starting
+02/05/2023 03:00:11 AM Initializing
+02/05/2023 03:00:11 AM Connecting to database
+02/05/2023 03:00:11 AM Creating Twilio client
+02/05/2023 03:00:11 AM Getting all uniq_id
+02/05/2023 03:00:11 AM Getting all uniq_id
+02/05/2023 03:00:11 AM Querying database
+02/05/2023 03:00:11 AM Executing query
+02/05/2023 03:00:11 AM Checking rows
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:11 AM New row found
+02/05/2023 03:00:16 AM Querying database
+02/05/2023 03:00:16 AM Executing query
+02/05/2023 03:00:16 AM Checking rows
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:16 AM Row already in cache
+02/05/2023 03:00:21 AM Querying database
+02/05/2023 03:00:21 AM Executing query
+02/05/2023 03:00:21 AM Checking rows
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:21 AM Row already in cache
+02/05/2023 03:00:26 AM Querying database
+02/05/2023 03:00:26 AM Executing query
+02/05/2023 03:00:27 AM Checking rows
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:00:27 AM Row already in cache
+02/05/2023 03:14:56 AM Starting
+02/05/2023 03:14:56 AM Initializing
+02/05/2023 03:14:56 AM Connecting to database
+02/05/2023 03:14:56 AM Creating Twilio client
+02/05/2023 03:14:56 AM Getting all uniq_id
+02/05/2023 03:14:56 AM Getting all uniq_id
+02/05/2023 03:14:56 AM Querying database
+02/05/2023 03:14:56 AM Executing query
+02/05/2023 03:14:56 AM Checking rows
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:14:56 AM New row found
+02/05/2023 03:15:01 AM Querying database
+02/05/2023 03:15:01 AM Executing query
+02/05/2023 03:15:01 AM Checking rows
+02/05/2023 03:15:01 AM Rows already in cache
+02/05/2023 03:15:01 AM Not calling user
+02/05/2023 03:16:51 AM Starting
+02/05/2023 03:16:51 AM Initializing
+02/05/2023 03:16:51 AM Connecting to database
+02/05/2023 03:16:51 AM Creating Twilio client
+02/05/2023 03:16:51 AM Getting all uniq_id
+02/05/2023 03:16:51 AM Getting all uniq_id
+02/05/2023 03:16:51 AM Querying database
+02/05/2023 03:16:51 AM Executing query
+02/05/2023 03:16:51 AM Checking rows
+02/05/2023 03:16:51 AM New row found
+02/05/2023 03:16:56 AM Querying database
+02/05/2023 03:16:56 AM Executing query
+02/05/2023 03:16:56 AM Checking rows
+02/05/2023 03:16:56 AM Rows already in cache
+02/05/2023 03:16:56 AM Not calling user
+02/05/2023 03:17:01 AM Querying database
+02/05/2023 03:17:01 AM Executing query
+02/05/2023 03:17:01 AM Checking rows
+02/05/2023 03:17:01 AM Rows already in cache
+02/05/2023 03:17:01 AM Not calling user
+02/05/2023 03:17:49 AM Starting
+02/05/2023 03:17:49 AM Initializing
+02/05/2023 03:17:49 AM Connecting to database
+02/05/2023 03:17:49 AM Creating Twilio client
+02/05/2023 03:17:49 AM Getting all uniq_id
+02/05/2023 03:17:49 AM Querying database
+02/05/2023 03:17:49 AM Executing query
+02/05/2023 03:17:50 AM Checking rows
+02/05/2023 03:17:50 AM New row found
+02/05/2023 03:17:55 AM Querying database
+02/05/2023 03:17:55 AM Executing query
+02/05/2023 03:17:55 AM Checking rows
+02/05/2023 03:17:55 AM Rows already in cache
+02/05/2023 03:17:55 AM Not calling user
