@@ -2468,3 +2468,36 @@
 02/05/2023 03:45:33 AM Checking rows
 02/05/2023 03:45:33 AM Rows already in cache
 02/05/2023 03:45:33 AM Not calling user
+02/05/2023 12:57:52 PM Starting
+02/05/2023 12:57:52 PM Initializing
+02/05/2023 12:57:52 PM Connecting to database
+02/05/2023 12:57:52 PM Creating Twilio client
+02/05/2023 12:57:52 PM Getting all uniq_id
+02/05/2023 12:57:52 PM Querying database
+02/05/2023 12:57:52 PM Executing query
+02/05/2023 12:57:52 PM Checking rows
+02/05/2023 12:57:52 PM New row found
+02/05/2023 12:57:57 PM Querying database
+02/05/2023 12:57:57 PM Executing query
+02/05/2023 12:57:57 PM Checking rows
+02/05/2023 12:57:57 PM Rows already in cache
+02/05/2023 12:57:57 PM Not calling user
+02/05/2023 12:58:02 PM Querying database
+02/05/2023 12:58:02 PM Executing query
+02/05/2023 12:58:02 PM Checking rows
+02/05/2023 12:58:02 PM Rows already in cache
+02/05/2023 12:58:02 PM Not calling user
+02/05/2023 02:47:34 PM Starting
+02/05/2023 02:47:34 PM Initializing
+02/05/2023 02:47:34 PM Connecting to database
+02/05/2023 02:47:34 PM Creating Twilio client
+02/05/2023 02:47:34 PM Getting all uniq_id
+02/05/2023 02:47:34 PM Querying database
+02/05/2023 02:47:34 PM Executing query
+02/05/2023 02:47:34 PM Checking rows
+02/05/2023 02:47:34 PM New row found
+02/05/2023 02:47:44 PM Querying database
+02/05/2023 02:47:44 PM Executing query
+02/05/2023 02:47:44 PM Checking rows
+02/05/2023 02:47:44 PM Rows already in cache
+02/05/2023 02:47:44 PM Not calling user

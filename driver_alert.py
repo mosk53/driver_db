@@ -5,8 +5,7 @@ from time import sleep
 
 log.basicConfig(filename='log.log', level=log.DEBUG, format='%(asctime)s %(message)s', datefmt='%m/%d/%Y %I:%M:%S %p')
 
-test = True
-cache_exists = True
+frist_run = True
 
 class alert_bot():
     log.info("Starting")
@@ -27,8 +26,8 @@ class alert_bot():
         try:
             print("Creating Twilio client")
             log.info("Creating Twilio client")
-            account_sid = "XXX"
-            auth_token = "XXX"
+            account_sid = "AC5d5567ee7f64c99283cd6dc5fb9c7fe0"
+            auth_token = "d72ffeec8bd614ec17942e826ea57876"
             self.client = Client(account_sid, auth_token)
         except Exception as e:
             log.error(e)
@@ -69,7 +68,8 @@ class alert_bot():
             if found:
                 print("New row found")
                 log.info("New row found")
-                self.call_me()
+                print("Calling user function now")
+                #self.call_me()
             else:
                 log.info("Rows already in cache")
                 print("Rows already in cache")
@@ -81,13 +81,13 @@ class alert_bot():
             log.error("Could not check rows")
 
     def call_me(self):
-        global cache_exists
-        if cache_exists:
+        global frist_run
+        if first_run:
             log.info("Cache does not exist")
             print("Cache does not exist")
             log.info("Not calling user")
             print("Not calling user")
-            cache_exists = False
+            first_run = False
         else:
             try:
                 print("Calling user")
@@ -128,4 +128,4 @@ if __name__ == "__main__":
     bot = alert_bot()
     while True:
         bot.check_db()
-        sleep(5)
+        sleep(10)
