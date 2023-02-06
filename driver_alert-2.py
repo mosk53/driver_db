@@ -64,7 +64,7 @@ class alert_bot():
         
     def check_db(self):
         # Query the database
-        query = ("SELECT uniq_id FROM jo348_chro_cf_dtb_order WHERE driverrealstart > driverplanstart + INTERVAL 5 MINUTE;")
+        query = ("SELECT uniq_id FROM jo348_chro_cf_dtb_order WHERE (driverrealstart > driverplanstart + INTERVAL 5 MINUTE) OR (driverrealstart = '0000-00-00 00:00:00' AND driverplanstart < NOW());")
         # Execute the query and fetch the rows
         try:
             log.info("Executing query")
