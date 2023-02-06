@@ -31,6 +31,8 @@ Subject: Bot is done
 
 Bot completed its task and found new rows in the database."""
 
+first_run = True
+
 class alert_bot():
     log.info("Starting")
 
@@ -58,7 +60,7 @@ class alert_bot():
             log.error(e)
             log.error("Could not create Twilio client")
         self.cache = self.get_all_uniq_id()
-        self.first_run = True
+
         
     def check_db(self):
         # Query the database
@@ -99,7 +101,6 @@ class alert_bot():
             log.error("Could not check rows")
 
     def call_me(self):
-        self.first_run
         if self.first_run:
             log.info("Cache does not exist")
             print("Cache does not exist")
