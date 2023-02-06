@@ -2070,3 +2070,119 @@
 02/06/2023 05:32:42 PM Not calling user
 02/06/2023 05:32:42 PM Cache saved
 02/06/2023 05:32:42 PM Closing database connection
+02/06/2023 07:11:03 PM Starting
+02/06/2023 07:11:03 PM Initializing
+02/06/2023 07:11:03 PM Connecting to database
+02/06/2023 07:11:03 PM Creating Twilio client
+02/06/2023 07:11:03 PM Getting all uniq_id
+02/06/2023 07:11:03 PM Cache loaded
+02/06/2023 07:11:03 PM Executing query
+02/06/2023 07:11:03 PM Checking rows
+02/06/2023 07:11:03 PM New row found
+02/06/2023 07:11:03 PM Cache does not exist
+02/06/2023 07:11:03 PM Not calling user
+02/06/2023 07:11:03 PM Sending email
+02/06/2023 07:11:04 PM Email sent
+02/06/2023 07:11:04 PM Cache saved
+02/06/2023 07:11:04 PM Closing database connection
+02/06/2023 07:17:19 PM Initializing
+02/06/2023 07:17:19 PM Connecting to database
+02/06/2023 07:17:19 PM Creating Twilio client
+02/06/2023 07:17:19 PM Getting all uniq_id
+02/06/2023 07:17:19 PM Cache loaded
+02/06/2023 07:17:19 PM Executing query
+02/06/2023 07:17:19 PM Checking rows
+02/06/2023 07:17:19 PM New row found
+02/06/2023 07:17:19 PM Cache does not exist
+02/06/2023 07:17:19 PM Not calling user
+02/06/2023 07:17:19 PM Sending email
+02/06/2023 07:17:20 PM Email sent
+02/06/2023 07:17:20 PM Cache saved
+02/06/2023 07:17:20 PM Closing database connection
+02/06/2023 07:19:52 PM Starting
+02/06/2023 07:19:52 PM Initializing
+02/06/2023 07:19:52 PM Connecting to database
+02/06/2023 07:19:52 PM Creating Twilio client
+02/06/2023 07:19:52 PM Getting all uniq_id
+02/06/2023 07:19:52 PM Cache loaded
+02/06/2023 07:19:52 PM Executing query
+02/06/2023 07:19:52 PM Checking rows
+02/06/2023 07:19:52 PM Rows already in cache
+02/06/2023 07:19:52 PM Not calling user
+02/06/2023 07:19:52 PM Cache saved
+02/06/2023 07:19:52 PM Closing database connection
+02/06/2023 07:26:07 PM Initializing
+02/06/2023 07:26:07 PM Connecting to database
+02/06/2023 07:26:07 PM Creating Twilio client
+02/06/2023 07:26:07 PM Getting all uniq_id
+02/06/2023 07:26:07 PM Cache loaded
+02/06/2023 07:26:07 PM Executing query
+02/06/2023 07:26:07 PM Checking rows
+02/06/2023 07:26:07 PM New row found
+02/06/2023 07:26:07 PM Cache does not exist
+02/06/2023 07:26:07 PM Not calling user
+02/06/2023 07:26:07 PM Sending email
+02/06/2023 07:26:08 PM Email sent
+02/06/2023 07:26:08 PM Cache saved
+02/06/2023 07:26:08 PM Closing database connection
+02/06/2023 07:28:16 PM Starting
+02/06/2023 07:28:16 PM Initializing
+02/06/2023 07:28:16 PM Connecting to database
+02/06/2023 07:28:16 PM Creating Twilio client
+02/06/2023 07:28:16 PM Getting all uniq_id
+02/06/2023 07:28:16 PM Cache loaded
+02/06/2023 07:28:16 PM Executing query
+02/06/2023 07:28:17 PM Checking rows
+02/06/2023 07:28:17 PM Rows already in cache
+02/06/2023 07:28:17 PM Not calling user
+02/06/2023 07:28:17 PM Cache saved
+02/06/2023 07:28:17 PM Closing database connection
+02/06/2023 07:30:09 PM Starting
+02/06/2023 07:30:09 PM Initializing
+02/06/2023 07:30:09 PM Connecting to database
+02/06/2023 07:30:09 PM Creating Twilio client
+02/06/2023 07:30:09 PM Getting all uniq_id
+02/06/2023 07:30:09 PM Cache loaded
+02/06/2023 07:30:09 PM Executing query
+02/06/2023 07:30:09 PM Checking rows
+02/06/2023 07:30:09 PM Rows already in cache
+02/06/2023 07:30:09 PM Not calling user
+02/06/2023 07:30:09 PM Cache saved
+02/06/2023 07:30:09 PM Closing database connection
+02/06/2023 07:36:24 PM Initializing
+02/06/2023 07:36:24 PM Connecting to database
+02/06/2023 07:36:24 PM Creating Twilio client
+02/06/2023 07:36:24 PM Getting all uniq_id
+02/06/2023 07:36:24 PM Cache loaded
+02/06/2023 07:36:24 PM Executing query
+02/06/2023 07:36:24 PM Checking rows
+02/06/2023 07:36:24 PM New row found
+02/06/2023 07:36:24 PM Calling user
+02/06/2023 07:36:24 PM -- BEGIN Twilio API Request --
+02/06/2023 07:36:24 PM POST Request: https://api.twilio.com/2010-04-01/Accounts/AC5d5567ee7f64c99283cd6dc5fb9c7fe0/Calls.json
+02/06/2023 07:36:24 PM Headers:
+02/06/2023 07:36:24 PM User-Agent : twilio-python/7.16.2 (Darwin arm64) Python/3.11.1
+02/06/2023 07:36:24 PM X-Twilio-Client : python-7.16.2
+02/06/2023 07:36:24 PM Accept-Charset : utf-8
+02/06/2023 07:36:24 PM Content-Type : application/x-www-form-urlencoded
+02/06/2023 07:36:24 PM Accept : application/json
+02/06/2023 07:36:24 PM -- END Twilio API Request --
+02/06/2023 07:36:24 PM Starting new HTTPS connection (1): api.twilio.com:443
+02/06/2023 07:36:25 PM https://api.twilio.com:443 "POST /2010-04-01/Accounts/AC5d5567ee7f64c99283cd6dc5fb9c7fe0/Calls.json HTTP/1.1" 201 2109
+02/06/2023 07:36:25 PM Response Status Code: 201
+02/06/2023 07:36:25 PM Response Headers: {'Date': 'Mon, 06 Feb 2023 18:36:25 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '2109', 'Connection': 'keep-alive', 'Twilio-Request-Id': 'RQbd52b98f84c026a5c12542bae7e6c3ad', 'Twilio-Request-Duration': '0.045', 'Access-Control-Allow-Origin': '*', 'Access-Control-Allow-Headers': 'Accept, Authorization, Content-Type, If-Match, If-Modified-Since, If-None-Match, If-Unmodified-Since, Idempotency-Key', 'Access-Control-Allow-Methods': 'GET, POST, DELETE, OPTIONS', 'Access-Control-Expose-Headers': 'ETag', 'Access-Control-Allow-Credentials': 'true', 'X-Powered-By': 'AT-5000', 'Twilio-Concurrent-Requests': '1', 'X-Shenanigans': 'none', 'X-Home-Region': 'us1', 'X-API-Domain': 'api.twilio.com', 'Strict-Transport-Security': 'max-age=31536000'}
+02/06/2023 07:36:25 PM Sending email
+02/06/2023 07:36:26 PM Email sent
+02/06/2023 07:36:26 PM Cache saved
+02/06/2023 07:36:26 PM Closing database connection
+02/06/2023 07:42:41 PM Initializing
+02/06/2023 07:42:41 PM Connecting to database
+02/06/2023 07:42:41 PM Creating Twilio client
+02/06/2023 07:42:41 PM Getting all uniq_id
+02/06/2023 07:42:41 PM Cache loaded
+02/06/2023 07:42:41 PM Executing query
+02/06/2023 07:42:41 PM Checking rows
+02/06/2023 07:42:41 PM Rows already in cache
+02/06/2023 07:42:41 PM Not calling user
+02/06/2023 07:42:41 PM Cache saved
+02/06/2023 07:42:41 PM Closing database connection

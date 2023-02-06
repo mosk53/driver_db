@@ -101,24 +101,17 @@ class alert_bot():
             log.error("Could not check rows")
 
     def call_me(self):
-        if self.first_run:
-            log.info("Cache does not exist")
-            print("Cache does not exist")
-            log.info("Not calling user")
-            print("Not calling user")
-            self.first_run = False
-        else:
-            try:
-                print("Calling user")
-                log.info("Calling user")
-                call = self.client.calls.create(
-                    url="http://demo.twilio.com/docs/voice.xml",
-                    to="+4917663385873",
-                    from_="+19135132511"
-                    )
-            except Exception as e:
-                log.error(e)
-                log.error("Could not call user")
+        try:
+            print("Calling user")
+            log.info("Calling user")
+            call = self.client.calls.create(
+                url="http://demo.twilio.com/docs/voice.xml",
+                to="+4917663385873",
+                from_="+19135132511"
+                )
+        except Exception as e:
+            log.error(e)
+            log.error("Could not call user")
 
     def send_email(self, msg):
         try:
