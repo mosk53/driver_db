@@ -48,17 +48,20 @@ class alert_bot():
         except Exception as e:
             log.error(e)
             log.error("Could not connect to database")
+            self.send_email("Could not connect to database")
             try:
                 log.info(ping('db-web9.alfahosting-server.de', verbose=True))
             except Exception as e:
                 log.error(e)
                 log.error("Datenbank offline")
+                self.send_email("Datenbank offline")
         try:
             log.info("Creating Twilio client")
             self.client = Client(tw_account_sid, tw_auth_token)
         except Exception as e:
             log.error(e)
             log.error("Could not create Twilio client")
+            self.send_email("Could not create Twilio client")
         self.cache = self.get_all_uniq_id()
 
         
@@ -75,6 +78,7 @@ class alert_bot():
         except Exception as e:
             log.error(e)
             log.error("Could not execute query")
+            self.send_email("Could not execute query")
 
     def check_row(self, rows):
         log.info("Checking rows")
@@ -99,6 +103,7 @@ class alert_bot():
         except Exception as e:
             log.error(e)
             log.error("Could not check rows")
+            self.send_email("Could not check rows")
 
     def call_me(self):
         try:
@@ -112,6 +117,7 @@ class alert_bot():
         except Exception as e:
             log.error(e)
             log.error("Could not call user")
+            self.send_email("Could not call user")
 
     def send_email(self, msg):
         try:
@@ -153,6 +159,7 @@ class alert_bot():
             except Exception as e:
                 print(e)
                 log.error("Could not get all uniq_id")
+                self.send_email("Could not get all uniq_id")
 
         
 
