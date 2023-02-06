@@ -11,7 +11,7 @@ log.basicConfig(filename='log.log', level=log.DEBUG, format='%(asctime)s %(messa
 
 # Twilio credentials
 tw_account_sid = "AC5d5567ee7f64c99283cd6dc5fb9c7fe0"
-tw_auth_token = "d72ffeec8bd614ec17942e826ea57876"
+tw_auth_token = "694855d3520240d12ac499d8959ccad2"
 tw_url = "http://demo.twilio.com/docs/voice.xml"
 tw_to = "+4917663385873"
 tw_from_ = "+19135132511"
