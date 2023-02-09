@@ -1,74 +1,53 @@
 import mysql.connector
 import logging as log
+import logging.handlers as handlers
 from twilio.rest import Client
 from time import sleep
 import smtplib
 from pythonping import ping
 import pickle
+from einst import *
 
 
-log.basicConfig(filename='log.log', level=log.DEBUG, format='%(asctime)s %(message)s', datefmt='%m/%d/%Y %I:%M:%S %p')
+# configure logging
+log.basicConfig(
+    level=log.DEBUG,
+    format="%(asctime)s %(message)s",
+    datefmt="%m/%d/%Y %I:%M:%S %p",
+    handlers=[
+        handlers.RotatingFileHandler("log.log", maxBytes=1000000000, backupCount=5)
+    ],
+)
 
-# Twilio credentials
-tw_account_sid = "AC5d5567ee7f64c99283cd6dc5fb9c7fe0"
-tw_auth_token = "694855d3520240d12ac499d8959ccad2"
-tw_url = "http://demo.twilio.com/docs/voice.xml"
-tw_to = "+4917663385873"
-tw_from_ = "+19135132511"
 
-# Database credentials
-db_host = "db-web9.alfahosting-server.de"
-db_user = "up6hge6e_driver"
-db_password = "HJScs@!16031955"
-db_name = "up6hge6e_jom"
-
-# Email credentials
-e_sender_email = "monitor_driverdb@outlook.de"
-e_receiver_email = "mosk.it@icloud.com"
-e_password = "This!as2well"
-e_message_done = """\
-Subject: Bot is done
-
-Bot completed its task and found new rows in the database."""
-
-first_run = True
-
-class alert_bot():
-    log.info("Starting")
-
+class alert_bot:
     def __init__(self):
         log.info("Initializing")
         try:
-            log.info("Connecting to database") 
+            log.info("Connecting to database")
             self.db = mysql.connector.connect(
-                host=db_host,
-                user=db_user,
-                password=db_password,
-                database=db_name)
+                host=db_host, user=db_user, password=db_password, database=db_name
+            )
         except Exception as e:
             log.error(e)
             log.error("Could not connect to database")
-            self.send_email("Could not connect to database")
+            self.send_email("Error", "Could not connect to database")
             try:
-                log.info(ping('db-web9.alfahosting-server.de', verbose=True))
+                log.info(ping("db-web9.alfahosting-server.de", verbose=True))
             except Exception as e:
                 log.error(e)
                 log.error("Datenbank offline")
-                self.send_email("Datenbank offline")
+                self.send_email("Error", e)
         try:
             log.info("Creating Twilio client")
             self.client = Client(tw_account_sid, tw_auth_token)
         except Exception as e:
             log.error(e)
             log.error("Could not create Twilio client")
-            self.send_email("Could not create Twilio client")
-        self.cache = self.get_all_uniq_id()
+            self.send_email("Error", e)
 
-        
     def check_db(self):
-        # Query the database
-        query = ("SELECT uniq_id FROM jo348_chro_cf_dtb_order WHERE (driverrealstart > driverplanstart + INTERVAL 5 MINUTE) OR (driverrealstart = '0000-00-00 00:00:00' AND driverplanstart < NOW());")
-        # Execute the query and fetch the rows
+        query = "SELECT * FROM jo348_alarm WHERE Alarmzeit < NOW() AND abfrage = 0;"
         try:
             log.info("Executing query")
             self.cursor = self.db.cursor()
@@ -78,110 +57,59 @@ class alert_bot():
         except Exception as e:
             log.error(e)
             log.error("Could not execute query")
-            self.send_email("Could not execute query")
+            self.send_email("Error", e)
 
     def check_row(self, rows):
-        log.info("Checking rows")
-        found = False
-        try:
-            for row in rows:
-                uniq_id = row[0]
-                if uniq_id not in self.cache:
-                    self.cache.append(uniq_id)
-                    found = True
-                else:
-                    continue
-
-            if found:
-                log.info("New row found")
-                self.call_me()
-                self.send_email(e_message_done)
-            else:
-                log.info("Rows already in cache")
-                log.info("Not calling user")
-
-        except Exception as e:
-            log.error(e)
-            log.error("Could not check rows")
-            self.send_email("Could not check rows")
+        log.info("Checking if rows exist")
+        if rows:
+            log.info("Rows found")
+            self.call_me()
+            self.send_email("Successful", "Rows found, calling user")
+        else:
+            log.info("No rows found")
 
     def call_me(self):
         try:
-            print("Calling user")
             log.info("Calling user")
             call = self.client.calls.create(
                 url="http://demo.twilio.com/docs/voice.xml",
                 to="+4917663385873",
-                from_="+19135132511"
-                )
+                from_="+19135132511",
+            )
         except Exception as e:
             log.error(e)
             log.error("Could not call user")
-            self.send_email("Could not call user")
+            self.send_email("Error", e)
 
-    def send_email(self, msg):
+    def send_email(self, subject, message):
         try:
-            print("Sending email")
-            log.info("Sending email")
-            server = smtplib.SMTP('smtp-mail.outlook.com', 587)
+            server = smtplib.SMTP("smtp-mail.outlook.com", 587)
+            server.ehlo()
             server.starttls()
             server.login(e_sender_email, e_password)
-            server.sendmail(e_sender_email, e_receiver_email, msg)
+            server.sendmail(
+                e_sender_email, e_receiver_email, f"Subject: {subject}\n\n{message}"
+            )
             server.quit()
-            log.info("Email sent")
-            print("Email sent")
+            log.INFO("Email sent")
         except Exception as e:
-            log.error(e)
-            log.error("Could not send email")
-
-    def get_all_uniq_id(self):
-        log.info("Getting all uniq_id")
-        print("Getting all uniq_id")
-        query = (
-            "SELECT uniq_id FROM jo348_chro_cf_dtb_order"
-        )
-        # check if cache exists and load it
-        try:
-            with open('cache.pickle', 'rb') as handle:
-                self.cache = pickle.load(handle)
-                log.info("Cache loaded")
-                print("Cache loaded")
-                return self.cache
-        except Exception as e:
-            log.error(e)
-            log.error("Could not load cache")
-            try:
-                log.info("Executing init query")
-                self.cursor = self.db.cursor()
-                self.cursor.execute(query)
-                cache = self.cursor.fetchall()
-                return cache
-            except Exception as e:
-                print(e)
-                log.error("Could not get all uniq_id")
-                self.send_email("Could not get all uniq_id")
-
-        
+            log.INFO(e)
+            log.INFO("Could not send email")
 
     def __del__(self):
-        self.cursor.close()
-        self.db.close()
-        print("Closing database connection")
-        log.info("Closing database connection")
+        try:
+            self.cursor.close()
+            self.db.close()
+            log.info("Closing database connection")
+        except Exception as e:
+            log.error(e)
+            log.error("Could not close database connection")
+            self.send_email("Error", e)
 
 
 if __name__ == "__main__":
     while True:
         bot = alert_bot()
         bot.check_db()
-        # Save cache
-        try:
-            with open('cache.pickle', 'wb') as handle:
-                pickle.dump(bot.cache, handle, protocol=pickle.HIGHEST_PROTOCOL)
-                log.info("Cache saved")
-                print("Cache saved")
-        except Exception as e:
-            log.error(e)
-            log.error("Could not save cache")
         del bot
         sleep(375)
