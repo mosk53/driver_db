@@ -97,7 +97,7 @@ class alert_bot():
             log.error(e)
             log.error("Could not check rows")
 
-    def call_me_2(self):
+    def call_me(self):
         try:
             print("Calling user")
             log.info("Calling user")
