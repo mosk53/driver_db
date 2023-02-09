@@ -624,3 +624,109 @@
 02/06/2023 11:47:42 PM Not calling user
 02/06/2023 11:47:42 PM Cache saved
 02/06/2023 11:47:42 PM Closing database connection
+02/09/2023 11:51:10 AM Starting
+02/09/2023 11:51:10 AM Initializing
+02/09/2023 11:51:10 AM Connecting to database
+02/09/2023 11:51:10 AM Creating Twilio client
+02/09/2023 11:51:10 AM Getting all uniq_id
+02/09/2023 11:51:10 AM Cache loaded
+02/09/2023 11:51:10 AM Executing query
+02/09/2023 11:51:11 AM Checking rows
+02/09/2023 11:51:11 AM New row found
+02/09/2023 11:51:11 AM Sending email
+02/09/2023 11:51:11 AM Email sent
+02/09/2023 11:51:11 AM Cache saved
+02/09/2023 11:51:11 AM Closing database connection
+02/09/2023 11:54:51 AM Starting
+02/09/2023 11:54:51 AM Initializing
+02/09/2023 11:54:51 AM Connecting to database
+02/09/2023 11:54:51 AM Creating Twilio client
+02/09/2023 11:54:51 AM Getting all uniq_id
+02/09/2023 11:54:51 AM Cache loaded
+02/09/2023 11:54:51 AM Executing query
+02/09/2023 11:54:51 AM Checking rows
+02/09/2023 11:54:51 AM Rows already in cache
+02/09/2023 11:54:51 AM Not calling user
+02/09/2023 11:54:51 AM Cache saved
+02/09/2023 11:54:51 AM Closing database connection
+02/09/2023 11:56:51 AM Initializing
+02/09/2023 11:56:51 AM Connecting to database
+02/09/2023 11:56:51 AM Creating Twilio client
+02/09/2023 11:56:51 AM Getting all uniq_id
+02/09/2023 11:56:51 AM Cache loaded
+02/09/2023 11:56:51 AM Executing query
+02/09/2023 11:56:51 AM Checking rows
+02/09/2023 11:56:51 AM New row found
+02/09/2023 11:56:51 AM First run
+02/09/2023 11:56:51 AM Sending email
+02/09/2023 11:56:52 AM Email sent
+02/09/2023 11:56:52 AM Cache saved
+02/09/2023 11:56:52 AM Closing database connection
+02/09/2023 11:58:52 AM Initializing
+02/09/2023 11:58:52 AM Connecting to database
+02/09/2023 11:58:53 AM Creating Twilio client
+02/09/2023 11:58:53 AM Getting all uniq_id
+02/09/2023 11:58:53 AM Cache loaded
+02/09/2023 11:58:53 AM Executing query
+02/09/2023 11:58:53 AM Checking rows
+02/09/2023 11:58:53 AM Rows already in cache
+02/09/2023 11:58:53 AM Not calling user
+02/09/2023 11:58:53 AM Cache saved
+02/09/2023 11:58:53 AM Closing database connection
+02/09/2023 12:00:53 PM Initializing
+02/09/2023 12:00:53 PM Connecting to database
+02/09/2023 12:00:53 PM Creating Twilio client
+02/09/2023 12:00:53 PM Getting all uniq_id
+02/09/2023 12:00:53 PM Cache loaded
+02/09/2023 12:00:53 PM Executing query
+02/09/2023 12:00:53 PM Checking rows
+02/09/2023 12:00:53 PM New row found
+02/09/2023 12:00:53 PM First run
+02/09/2023 12:00:53 PM Sending email
+02/09/2023 12:00:54 PM Email sent
+02/09/2023 12:00:54 PM Cache saved
+02/09/2023 12:00:54 PM Closing database connection
+02/09/2023 12:02:54 PM Initializing
+02/09/2023 12:02:54 PM Connecting to database
+02/09/2023 12:02:54 PM Creating Twilio client
+02/09/2023 12:02:54 PM Getting all uniq_id
+02/09/2023 12:02:54 PM Cache loaded
+02/09/2023 12:02:54 PM Executing query
+02/09/2023 12:02:54 PM Checking rows
+02/09/2023 12:02:54 PM Rows already in cache
+02/09/2023 12:02:54 PM Not calling user
+02/09/2023 12:02:54 PM Cache saved
+02/09/2023 12:02:54 PM Closing database connection
+02/09/2023 12:04:54 PM Initializing
+02/09/2023 12:04:54 PM Connecting to database
+02/09/2023 12:04:54 PM Creating Twilio client
+02/09/2023 12:04:54 PM Getting all uniq_id
+02/09/2023 12:04:54 PM Cache loaded
+02/09/2023 12:04:54 PM Executing query
+02/09/2023 12:04:55 PM Checking rows
+02/09/2023 12:04:55 PM Rows already in cache
+02/09/2023 12:04:55 PM Not calling user
+02/09/2023 12:04:55 PM Cache saved
+02/09/2023 12:04:55 PM Closing database connection
+02/09/2023 12:06:55 PM Initializing
+02/09/2023 12:06:55 PM Connecting to database
+02/09/2023 12:06:55 PM Creating Twilio client
+02/09/2023 12:06:55 PM Getting all uniq_id
+02/09/2023 12:06:55 PM Cache loaded
+02/09/2023 12:06:55 PM Executing query
+02/09/2023 12:06:55 PM Checking rows
+02/09/2023 12:06:55 PM Rows already in cache
+02/09/2023 12:06:55 PM Not calling user
+02/09/2023 12:06:55 PM Cache saved
+02/09/2023 12:06:55 PM Closing database connection
+02/09/2023 12:08:55 PM Initializing
+02/09/2023 12:08:55 PM Connecting to database
+02/09/2023 12:08:55 PM Creating Twilio client
+02/09/2023 12:08:55 PM Getting all uniq_id
+02/09/2023 12:08:55 PM Cache loaded
+02/09/2023 12:08:55 PM Executing query
+02/09/2023 12:08:55 PM Checking rows
+02/09/2023 12:08:55 PM Rows already in cache
+02/09/2023 12:08:55 PM Not calling user
+02/09/2023 12:08:55 PM Cache saved
+02/09/2023 12:08:55 PM Closing database connection

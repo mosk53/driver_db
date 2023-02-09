@@ -38,6 +38,7 @@ class alert_bot():
 
     def __init__(self):
         log.info("Initializing")
+        self.query = "SELECT * FROM jo348_alarm WHERE Alarmzeit < NOW() AND abfrage = 0;"
         try:
             log.info("Connecting to database") 
             self.db = mysql.connector.connect(
@@ -63,13 +64,10 @@ class alert_bot():
 
         
     def check_db(self):
-        # Query the database
-        query = ("SELECT uniq_id FROM jo348_chro_cf_dtb_order WHERE (driverrealstart > driverplanstart + INTERVAL 5 MINUTE) OR (driverrealstart = '0000-00-00 00:00:00' AND driverplanstart < NOW());")
-        # Execute the query and fetch the rows
         try:
             log.info("Executing query")
             self.cursor = self.db.cursor()
-            self.cursor.execute(query)
+            self.cursor.execute(self.query)
             rows = self.cursor.fetchall()
             self.check_row(rows)
         except Exception as e:
@@ -87,7 +85,6 @@ class alert_bot():
                     found = True
                 else:
                     continue
-
             if found:
                 log.info("New row found")
                 self.call_me()
@@ -100,7 +97,7 @@ class alert_bot():
             log.error(e)
             log.error("Could not check rows")
 
-    def call_me(self):
+    def call_me_2(self):
         try:
             print("Calling user")
             log.info("Calling user")
@@ -130,10 +127,7 @@ class alert_bot():
 
     def get_all_uniq_id(self):
         log.info("Getting all uniq_id")
-        print("Getting all uniq_id")
-        query = (
-            "SELECT uniq_id FROM jo348_chro_cf_dtb_order"
-        )
+        print("Getting all uniq_id")        
         # check if cache exists and load it
         try:
             with open('cache.pickle', 'rb') as handle:
@@ -147,7 +141,7 @@ class alert_bot():
             try:
                 log.info("Executing init query")
                 self.cursor = self.db.cursor()
-                self.cursor.execute(query)
+                self.cursor.execute(self.query)
                 cache = self.cursor.fetchall()
                 return cache
             except Exception as e:
@@ -177,4 +171,4 @@ if __name__ == "__main__":
             log.error(e)
             log.error("Could not save cache")
         del bot
-        sleep(375)
+        sleep(120)
