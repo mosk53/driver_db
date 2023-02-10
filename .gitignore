@@ -1,3 +1,6 @@
 /test
 /driver_db_venv
-.gitignore
+cache.pickle
+einst.py
+nohup.out
+log.log
