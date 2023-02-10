@@ -1,6 +1,6 @@
 /test
 /driver_db_venv
-cache.pickle
-einst.py
-nohup.out
+/cache.pickle
+/einst.py
+/nohup.out
 log.log
