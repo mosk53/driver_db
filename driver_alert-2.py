@@ -10,7 +10,6 @@ from einst import *
 
 log.basicConfig(filename='log.log', level=log.DEBUG, format='%(asctime)s %(message)s', datefmt='%m/%d/%Y %I:%M:%S %p')
 
-Bot completed its task and found new rows in the database."""
 
 first_run = True
 
